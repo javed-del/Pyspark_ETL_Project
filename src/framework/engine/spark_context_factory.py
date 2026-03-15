@@ -23,10 +23,20 @@ def get_spark_session():
         return spark
 
     else:
-        # Local environment
+        # Local / Docker / CI environment
         from pyspark.sql import SparkSession
 
-        spark = SparkSession.builder \
-            .appName("MySparkApplication") \
-            .getOrCreate()
-        return spark
+        aws_key = os.environ.get("AWS_ACCESS_KEY_ID", "")
+        aws_secret = os.environ.get("AWS_SECRET_ACCESS_KEY", "")
+        aws_region = os.environ.get("AWS_REGION", "us-east-1")
+
+        builder = SparkSession.builder.appName("MySparkApplication")
+
+        if aws_key and aws_secret:
+            builder = builder \
+                .config("spark.hadoop.fs.s3a.access.key", aws_key) \
+                .config("spark.hadoop.fs.s3a.secret.key", aws_secret) \
+                .config("spark.hadoop.fs.s3a.endpoint", f"s3.{aws_region}.amazonaws.com") \
+                .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem")
+
+        return builder.getOrCreate()
