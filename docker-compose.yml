@@ -1,0 +1,13 @@
+services:
+  pyspark:
+    build: .
+    container_name: pyspark-app
+    volumes:
+      - ./Downloads:/app/Downloads
+      - ./data:/app/data
+    environment:
+      - SPARK_MASTER=local[*]
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+    stdin_open: true
+    tty: true

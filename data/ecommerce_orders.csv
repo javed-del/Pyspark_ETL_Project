@@ -1,0 +1,501 @@
+order_id,customer_name,email,phone,city,country,category,product_name,quantity,unit_price,discount_pct,total_price,payment_method,coupon_code,order_date,status,is_returning_customer,rating
+8B9B8C33,Raj Brown,raj.brown4@outlook.com,+1-632-132-1488,Mexico City,Mexico,Clothing,Denim Jacket,1,46.97,0.17,38.99,Credit Card,,2025-09-14,Delivered,True,5.0
+E67C08AE,Evelyn Smith,evelyn.smith72@yahoo.com,+1-632-448-5552,Rome,Italy,Sports,Jump Rope,5,13.3,0.07,61.84,Debit Card,,2024-03-11,Delivered,False,1.0
+7699CBC8,Liam Jackson,liam.jackson13@outlook.com,+1-280-665-5803,Mumbai,India,Books,Cooking Basics,1,20.28,0.18,16.63,Gift Card,,2025-09-05,Pending,False,3.0
+07541AB1,Arjun Williams,arjun.williams6@yahoo.com,+1-579-463-4432,Toronto,Canada,Books,Python Programming,1,45.65,0.1,41.09,Gift Card,NEWUSER15,2025-06-12,Delivered,True,2.0
+F5579112,Harper Wang,harper.wang32@yahoo.com,+1-232-924-6168,Sydney,Australia,Home & Kitchen,Blender,5,52.54,0.05,249.56,UPI,,2025-01-31,Delivered,True,3.0
+E834FA6E,Maria Kumar,maria.kumar92@outlook.com,+1-774-651-5304,Rome,Italy,Clothing,Sneakers,4,99.93,0.04,383.73,Gift Card,SAVE10,2024-07-25,Pending,False,5.0
+C53A529D,Mia Davis,mia.davis18@icloud.com,+1-265-494-7252,Mexico City,Mexico,Home & Kitchen,Air Fryer,1,128.01,0.04,122.89,Bank Transfer,FLASH5,2024-08-15,Shipped,False,5.0
+04605865,Mei Smith,mei.smith88@gmail.com,+1-203-839-5315,São Paulo,Brazil,Sports,Resistance Bands,3,34.2,0.03,99.52,Bank Transfer,,2025-05-24,Returned,True,5.0
+F0BB932A,Maria Brown,maria.brown81@outlook.com,+1-531-600-1319,Mexico City,Mexico,Sports,Water Bottle,3,18.97,0.19,46.1,Credit Card,,2025-09-08,Delivered,False,3.0
+597C609C,Emma Davis,emma.davis73@gmail.com,+1-875-586-3705,Toronto,Canada,Electronics,Mechanical Keyboard,1,128.03,0.24,97.3,PayPal,,2025-09-01,Pending,False,3.0
+9FE5EFA6,Maria Robinson,maria.robinson97@yahoo.com,+1-453-330-2049,London,United Kingdom,Books,Sci-Fi Novel,3,19.94,0.11,53.24,PayPal,DEAL25,2025-08-16,Delivered,True,3.0
+54A697CE,James Williams,james.williams91@gmail.com,+1-697-319-9834,Amsterdam,Netherlands,Clothing,Running Shoes,3,113.37,0.02,333.31,Debit Card,SUMMER20,2024-11-03,Cancelled,False,3.0
+6D7F4D67,Fatima Martin,fatima.martin53@yahoo.com,+1-869-761-2612,Amsterdam,Netherlands,Electronics,Wireless Earbuds,3,102.71,0.11,274.24,Credit Card,,2025-06-26,Shipped,False,1.0
+58DC0992,Sophia Miller,sophia.miller25@icloud.com,+1-300-151-9856,Tokyo,Japan,Home & Kitchen,Coffee Maker,3,73.74,0.12,194.67,Credit Card,DEAL25,2024-05-21,Delivered,True,2.0
+23858942,Charlotte Martin,charlotte.martin62@yahoo.com,+1-633-813-8973,Berlin,Germany,Home & Kitchen,Air Fryer,1,74.81,0.25,56.11,Debit Card,DEAL25,2024-12-01,Delivered,False,3.0
+4C75B4E3,Emma Kumar,emma.kumar95@icloud.com,+1-720-182-4044,New York,United States,Electronics,Mechanical Keyboard,1,103.89,0.15,88.31,Credit Card,,2025-08-01,Pending,True,3.0
+A24178D5,Henry Brown,henry.brown73@yahoo.com,+1-409-785-6147,Berlin,Germany,Sports,Water Bottle,1,15.78,0.1,14.2,Debit Card,NEWUSER15,2025-10-23,Delivered,False,2.0
+364C4772,Priya Sharma,priya.sharma39@hotmail.com,+1-418-618-5345,Tokyo,Japan,Books,Python Programming,5,20.27,0.25,76.01,Debit Card,,2024-06-15,Delivered,True,3.0
+63497992,Mia Taylor,mia.taylor21@hotmail.com,+1-306-999-3200,Amsterdam,Netherlands,Sports,Resistance Bands,5,30.28,0.0,151.4,PayPal,SUMMER20,2025-09-23,Delivered,True,5.0
+FC16011D,Noah Wilson,noah.wilson37@icloud.com,+1-849-533-5533,London,United Kingdom,Clothing,Sneakers,3,87.42,0.13,228.17,Credit Card,,2024-11-17,Delivered,False,2.0
+4566D68E,Raj Wilson,raj.wilson21@hotmail.com,+1-236-954-7049,Tokyo,Japan,Sports,Jump Rope,1,18.4,0.02,18.03,Bank Transfer,,2026-02-10,Pending,True,5.0
+EE902783,Noah Johnson,noah.johnson40@outlook.com,+1-967-258-4878,Mexico City,Mexico,Electronics,USB-C Hub,2,40.49,0.17,67.21,Debit Card,FLASH5,2025-03-02,Returned,True,5.0
+5EA3E470,James Garcia,james.garcia95@outlook.com,+1-239-979-8711,Mumbai,India,Home & Kitchen,Cutting Board,2,32.0,0.07,59.52,Debit Card,,2026-02-21,Delivered,False,4.0
+18DB9219,Isabella Gonzalez,isabella.gonzalez30@yahoo.com,+1-856-621-7548,Paris,France,Electronics,Mechanical Keyboard,3,87.03,0.07,242.81,Gift Card,SUMMER20,2024-05-15,Returned,False,
+8394472C,Olivia Lee,olivia.lee34@yahoo.com,+1-723-218-7311,Mexico City,Mexico,Sports,Resistance Bands,5,15.95,0.11,70.98,Bank Transfer,FLASH5,2025-01-20,Delivered,False,
+E2A52977,Arjun White,arjun.white1@icloud.com,+1-327-837-5920,Amsterdam,Netherlands,Sports,Dumbbell Set,1,79.13,0.24,60.14,Bank Transfer,NEWUSER15,2025-02-06,Delivered,False,4.0
+F5230E4C,Henry Khan,henry.khan38@icloud.com,+1-761-953-1006,Mumbai,India,Clothing,Denim Jacket,4,61.01,0.17,202.55,PayPal,SUMMER20,2024-08-30,Delivered,True,5.0
+D1C9176A,Fatima Kumar,fatima.kumar78@outlook.com,+1-727-779-6491,Berlin,Germany,Home & Kitchen,Blender,2,63.73,0.13,110.89,Credit Card,,2024-08-25,Returned,True,4.0
+952519A0,Sophia Lopez,sophia.lopez26@yahoo.com,+1-844-689-4185,Mumbai,India,Electronics,Wireless Earbuds,4,69.58,0.15,236.57,Gift Card,DEAL25,2024-05-18,Cancelled,False,5.0
+FCCE45A0,Henry Davis,henry.davis19@gmail.com,+1-770-355-2988,New York,United States,Electronics,Webcam HD,2,71.25,0.2,114.0,UPI,DEAL25,2026-02-15,Delivered,False,5.0
+956B9D8B,Harper Patel,harper.patel41@hotmail.com,+1-465-869-5050,São Paulo,Brazil,Sports,Water Bottle,5,23.52,0.11,104.66,Gift Card,DEAL25,2024-08-14,Delivered,False,3.0
+93C081BC,Benjamin Harris,benjamin.harris10@outlook.com,+1-910-256-4505,Mumbai,India,Clothing,Yoga Pants,5,38.42,0.02,188.26,Credit Card,SAVE10,2024-08-06,Shipped,False,4.0
+A7581483,Harper Harris,harper.harris54@gmail.com,+1-206-460-5892,São Paulo,Brazil,Clothing,Cotton T-Shirt,5,17.78,0.24,67.56,UPI,FLASH5,2024-03-25,Returned,False,5.0
+A73F5E71,Ananya Wang,ananya.wang70@icloud.com,+1-895-917-7624,Amsterdam,Netherlands,Clothing,Cotton T-Shirt,4,14.38,0.12,50.62,Gift Card,NEWUSER15,2025-04-07,Delivered,False,2.0
+1669FC85,Evelyn Robinson,evelyn.robinson4@hotmail.com,+1-251-366-7211,Toronto,Canada,Sports,Water Bottle,1,28.25,0.16,23.73,PayPal,DEAL25,2024-07-21,Delivered,False,4.0
+C4870775,Lucas Zhang,lucas.zhang49@outlook.com,+1-429-765-2124,Paris,France,Home & Kitchen,Knife Set,4,80.08,0.0,320.32,Gift Card,,2025-09-08,Delivered,True,3.0
+B2CA2EF4,William Gonzalez,william.gonzalez3@icloud.com,+1-462-885-7043,Rome,Italy,Clothing,Denim Jacket,1,46.3,0.14,39.82,Debit Card,DEAL25,2024-10-14,Pending,True,2.0
+29B8D1AC,Isabella Brown,isabella.brown75@gmail.com,+1-907-950-4978,Mexico City,Mexico,Books,Cooking Basics,4,28.54,0.1,102.74,Credit Card,,2024-09-24,Cancelled,False,1.0
+C161DA41,Fatima Kumar,fatima.kumar6@outlook.com,+1-701-208-8102,Mumbai,India,Sports,Jump Rope,1,19.91,0.13,17.32,PayPal,,2025-02-17,Cancelled,False,2.0
+A7242A71,Charlotte Garcia,charlotte.garcia94@icloud.com,+1-806-374-6280,Rome,Italy,Books,Cooking Basics,5,31.15,0.19,126.16,Debit Card,FLASH5,2025-06-24,Returned,True,4.0
+61BDF969,Carlos Harris,carlos.harris32@hotmail.com,+1-417-463-5232,São Paulo,Brazil,Sports,Water Bottle,3,28.35,0.01,84.2,PayPal,,2025-01-31,Delivered,False,5.0
+97D57B66,James Thompson,james.thompson25@gmail.com,+1-928-602-8342,Amsterdam,Netherlands,Clothing,Sneakers,5,92.5,0.19,374.62,Credit Card,DEAL25,2026-02-10,Delivered,False,3.0
+1528BAAA,Henry Khan,henry.khan32@outlook.com,+1-919-564-5438,Paris,France,Sports,Resistance Bands,5,26.82,0.09,122.03,PayPal,NEWUSER15,2025-09-19,Delivered,True,1.0
+B1B8985D,Ananya Miller,ananya.miller41@gmail.com,+1-398-403-4727,London,United Kingdom,Sports,Dumbbell Set,4,65.31,0.07,242.95,PayPal,SUMMER20,2025-10-29,Delivered,False,
+6FC4F299,Arjun Robinson,arjun.robinson17@outlook.com,+1-787-391-8690,New York,United States,Electronics,Wireless Earbuds,2,94.26,0.16,158.36,UPI,,2025-07-20,Shipped,False,2.0
+B5AE82A7,Emma Wilson,emma.wilson62@gmail.com,+1-776-411-2395,Toronto,Canada,Electronics,Bluetooth Speaker,5,94.08,0.16,395.14,Debit Card,,2024-04-28,Delivered,False,3.0
+C59D71D9,Mohamed Thompson,mohamed.thompson49@hotmail.com,+1-957-201-4404,Mexico City,Mexico,Home & Kitchen,Knife Set,4,81.6,0.08,300.29,Gift Card,,2025-11-30,Delivered,False,1.0
+4A59C93C,Ava Davis,ava.davis23@icloud.com,+1-437-395-5632,New York,United States,Electronics,Smartphone Case,4,10.04,0.17,33.33,Gift Card,SUMMER20,2025-06-29,Returned,False,1.0
+8543AE1B,Priya Davis,priya.davis34@icloud.com,+1-261-269-6039,London,United Kingdom,Clothing,Cotton T-Shirt,2,12.29,0.16,20.65,Bank Transfer,,2024-12-02,Cancelled,False,5.0
+67664E7D,Olivia Harris,olivia.harris89@outlook.com,+1-952-430-5102,Mumbai,India,Home & Kitchen,Knife Set,4,60.02,0.11,213.67,Credit Card,,2025-11-07,Delivered,True,
+BD6906ED,Mohamed Ali,mohamed.ali35@icloud.com,+1-799-546-9056,Toronto,Canada,Electronics,Webcam HD,4,87.8,0.13,305.54,Credit Card,SUMMER20,2025-05-31,Shipped,False,5.0
+659A9587,Lucas Anderson,lucas.anderson86@gmail.com,+1-290-422-5135,São Paulo,Brazil,Clothing,Yoga Pants,4,41.46,0.07,154.23,PayPal,,2025-04-19,Delivered,False,5.0
+998BBDB2,Chen Smith,chen.smith85@icloud.com,+1-408-373-9998,New York,United States,Home & Kitchen,Blender,5,38.51,0.09,175.22,Debit Card,DEAL25,2025-07-28,Delivered,False,5.0
+4AD616AE,Olivia Smith,olivia.smith81@icloud.com,+1-316-572-2924,Sydney,Australia,Clothing,Sneakers,5,72.66,0.0,363.3,Gift Card,,2025-04-26,Returned,True,5.0
+985EC39E,Maria Khan,maria.khan38@icloud.com,+1-395-713-9327,Mumbai,India,Books,Sci-Fi Novel,4,18.34,0.06,68.96,Gift Card,,2025-09-20,Delivered,True,4.0
+A0AF5B0A,Mohamed Lopez,mohamed.lopez54@outlook.com,+1-657-651-8935,Toronto,Canada,Sports,Resistance Bands,3,35.5,0.18,87.33,PayPal,DEAL25,2025-10-27,Delivered,False,5.0
+983D84A1,Maria Anderson,maria.anderson25@yahoo.com,+1-879-911-3492,Mumbai,India,Sports,Jump Rope,4,13.49,0.01,53.42,UPI,FLASH5,2025-07-02,Delivered,True,5.0
+F52F0059,Ethan Anderson,ethan.anderson13@hotmail.com,+1-680-900-5342,London,United Kingdom,Electronics,Laptop Stand,1,56.86,0.18,46.63,PayPal,,2025-04-28,Pending,False,1.0
+F41D3DCF,Mei Anderson,mei.anderson87@icloud.com,+1-846-800-5708,Sydney,Australia,Home & Kitchen,Knife Set,4,67.6,0.22,210.91,Debit Card,,2024-04-10,Cancelled,True,5.0
+DA775D9B,Olivia Zhang,olivia.zhang82@gmail.com,+1-583-541-3385,Paris,France,Home & Kitchen,Coffee Maker,1,95.51,0.01,94.55,Debit Card,SUMMER20,2024-05-01,Pending,False,2.0
+382F731F,Ava Garcia,ava.garcia11@icloud.com,+1-853-360-8529,São Paulo,Brazil,Home & Kitchen,Instant Pot,4,161.97,0.23,498.87,PayPal,SAVE10,2024-07-29,Cancelled,True,5.0
+FC49E1A5,Carlos Taylor,carlos.taylor87@icloud.com,+1-456-567-5949,Rome,Italy,Clothing,Running Shoes,3,80.91,0.25,182.05,Debit Card,FLASH5,2025-01-05,Shipped,False,1.0
+E78B49FD,Sophia Jackson,sophia.jackson74@outlook.com,+1-208-679-1803,Berlin,Germany,Sports,Resistance Bands,3,39.81,0.01,118.24,Bank Transfer,FLASH5,2026-01-08,Cancelled,False,4.0
+CDFD3714,Mohamed Lopez,mohamed.lopez30@icloud.com,+1-299-742-1645,Amsterdam,Netherlands,Books,Data Science Handbook,5,49.09,0.06,230.72,PayPal,,2026-01-09,Returned,False,
+F74C03A5,Ethan Thomas,ethan.thomas94@yahoo.com,+1-713-379-3695,Tokyo,Japan,Electronics,USB-C Hub,4,46.33,0.04,177.91,PayPal,NEWUSER15,2024-07-18,Returned,False,4.0
+383AADF9,Ananya Nguyen,ananya.nguyen44@gmail.com,+1-574-192-7464,Tokyo,Japan,Home & Kitchen,Air Fryer,2,72.66,0.22,113.35,Credit Card,FLASH5,2026-01-24,Delivered,True,5.0
+DF1E3A35,Mia Ali,mia.ali96@outlook.com,+1-834-674-6374,New York,United States,Sports,Jump Rope,3,22.33,0.03,64.98,Bank Transfer,DEAL25,2024-10-30,Delivered,True,5.0
+7B6CC3A5,Maria Khan,maria.khan39@hotmail.com,+1-440-650-3222,London,United Kingdom,Electronics,Smartphone Case,1,10.9,0.08,10.03,UPI,,2025-07-22,Shipped,False,5.0
+8F8CD256,Charlotte Kumar,charlotte.kumar96@yahoo.com,+1-579-322-8264,Rome,Italy,Home & Kitchen,Cutting Board,4,15.17,0.15,51.58,UPI,,2024-12-16,Delivered,False,1.0
+D23F7293,Priya Thomas,priya.thomas70@outlook.com,+1-417-757-1349,Amsterdam,Netherlands,Electronics,Bluetooth Speaker,1,70.34,0.24,53.46,Credit Card,,2025-06-13,Returned,False,3.0
+45F47281,Noah Lopez,noah.lopez73@yahoo.com,+1-810-102-5542,Toronto,Canada,Electronics,Webcam HD,2,88.25,0.15,150.03,Debit Card,NEWUSER15,2024-10-29,Delivered,False,2.0
+8812C347,Olivia Ali,olivia.ali4@yahoo.com,+1-253-229-7897,Berlin,Germany,Electronics,USB-C Hub,2,69.49,0.15,118.13,Bank Transfer,,2024-03-21,Delivered,True,5.0
+2958FCFA,Alexander Zhang,alexander.zhang47@icloud.com,+1-858-131-1996,São Paulo,Brazil,Sports,Yoga Mat,2,33.55,0.24,51.0,UPI,SUMMER20,2024-04-18,Returned,False,5.0
+F0F3AA09,Priya Brown,priya.brown63@hotmail.com,+1-811-643-5831,Mumbai,India,Electronics,Wireless Earbuds,2,75.76,0.02,148.49,UPI,NEWUSER15,2024-12-11,Pending,False,1.0
+BD7F3155,Fatima Khan,fatima.khan15@icloud.com,+1-947-197-6120,Mumbai,India,Clothing,Cotton T-Shirt,2,19.02,0.1,34.24,UPI,FLASH5,2025-06-12,Delivered,False,4.0
+7680652E,Noah Ali,noah.ali61@gmail.com,+1-261-700-6400,Tokyo,Japan,Electronics,Webcam HD,4,54.26,0.02,212.7,Gift Card,,2025-03-21,Delivered,False,4.0
+76221836,Mei Ali,mei.ali97@hotmail.com,+1-872-593-4674,Toronto,Canada,Electronics,USB-C Hub,3,60.01,0.03,174.63,Credit Card,SAVE10,2025-08-06,Delivered,False,1.0
+59C32539,Mohamed Wilson,mohamed.wilson74@yahoo.com,+1-873-949-5381,Mexico City,Mexico,Home & Kitchen,Instant Pot,5,196.94,0.15,837.0,Credit Card,,2025-12-23,Delivered,False,4.0
+7243BFE2,Maria Anderson,maria.anderson45@gmail.com,+1-964-643-4524,London,United Kingdom,Clothing,Denim Jacket,4,68.31,0.02,267.78,UPI,,2025-12-13,Shipped,False,4.0
+C3C18D4E,Ava Thomas,ava.thomas40@outlook.com,+1-283-378-8259,Amsterdam,Netherlands,Sports,Water Bottle,1,16.69,0.04,16.02,Gift Card,,2025-11-27,Shipped,False,5.0
+40B07D58,Charlotte Wilson,charlotte.wilson28@icloud.com,+1-883-415-1744,Tokyo,Japan,Electronics,USB-C Hub,3,51.49,0.17,128.21,Debit Card,DEAL25,2025-11-02,Shipped,True,
+AC8365B6,William Taylor,william.taylor28@yahoo.com,+1-589-645-4770,Toronto,Canada,Books,Self Help Guide,1,16.93,0.12,14.9,Bank Transfer,,2025-05-19,Pending,False,1.0
+A6069716,Henry Nguyen,henry.nguyen95@gmail.com,+1-614-826-7843,Mexico City,Mexico,Home & Kitchen,Air Fryer,1,101.37,0.22,79.07,PayPal,FLASH5,2025-10-15,Delivered,False,
+1A76D9B3,Lucas Garcia,lucas.garcia80@hotmail.com,+1-280-505-6083,Tokyo,Japan,Books,Python Programming,1,33.09,0.06,31.1,Gift Card,FLASH5,2025-10-29,Delivered,True,4.0
+00C82175,Mohamed Garcia,mohamed.garcia10@icloud.com,+1-305-249-5193,Sydney,Australia,Electronics,Laptop Stand,3,42.84,0.09,116.95,Debit Card,,2025-12-25,Delivered,True,1.0
+C403DE5E,Ava Zhang,ava.zhang81@hotmail.com,+1-523-254-8205,Amsterdam,Netherlands,Home & Kitchen,Instant Pot,4,171.18,0.17,568.32,Credit Card,NEWUSER15,2025-10-04,Shipped,False,4.0
+4A9BC7D1,Fatima Wilson,fatima.wilson76@gmail.com,+1-278-760-2479,Berlin,Germany,Books,Cooking Basics,4,16.47,0.11,58.63,Bank Transfer,NEWUSER15,2024-05-02,Pending,False,5.0
+22ADAB33,Ethan Robinson,ethan.robinson95@gmail.com,+1-661-205-6626,New York,United States,Home & Kitchen,Instant Pot,3,158.21,0.15,403.44,Gift Card,,2025-07-31,Delivered,True,
+474A841D,Sophia Khan,sophia.khan57@hotmail.com,+1-993-446-1857,Mumbai,India,Sports,Water Bottle,3,27.19,0.09,74.23,Gift Card,FLASH5,2024-12-19,Cancelled,False,1.0
+D08971A9,Lucas Brown,lucas.brown72@hotmail.com,+1-879-244-6731,Mexico City,Mexico,Books,Self Help Guide,5,21.67,0.22,84.51,PayPal,,2025-02-09,Cancelled,False,2.0
+D98C4F82,Evelyn Khan,evelyn.khan11@outlook.com,+1-886-533-9331,Amsterdam,Netherlands,Sports,Jump Rope,3,19.64,0.2,47.14,PayPal,,2026-01-20,Delivered,False,4.0
+EE4807E6,Ava Miller,ava.miller44@hotmail.com,+1-544-997-3147,Amsterdam,Netherlands,Clothing,Denim Jacket,2,89.99,0.02,176.38,Bank Transfer,,2024-06-16,Shipped,True,2.0
+944D29E2,Ava Gonzalez,ava.gonzalez89@icloud.com,+1-491-870-8355,Mexico City,Mexico,Clothing,Sneakers,4,95.0,0.09,345.8,Debit Card,DEAL25,2024-11-03,Pending,True,4.0
+1C82F075,Fatima Lopez,fatima.lopez61@yahoo.com,+1-404-920-3267,Toronto,Canada,Books,Cooking Basics,4,34.68,0.19,112.36,PayPal,FLASH5,2025-03-31,Delivered,False,4.0
+484A87DA,Harper Brown,harper.brown92@icloud.com,+1-293-327-8391,Mumbai,India,Electronics,USB-C Hub,2,34.18,0.07,63.57,PayPal,,2025-08-12,Delivered,False,
+2E3187D7,Henry Thompson,henry.thompson48@yahoo.com,+1-340-139-5700,Toronto,Canada,Home & Kitchen,Air Fryer,1,93.73,0.08,86.23,UPI,NEWUSER15,2024-06-14,Cancelled,True,5.0
+889429FA,Alexander Patel,alexander.patel1@gmail.com,+1-994-395-4893,London,United Kingdom,Electronics,USB-C Hub,2,40.77,0.14,70.12,PayPal,FLASH5,2025-11-18,Delivered,True,3.0
+7ED3D235,Charlotte Sharma,charlotte.sharma80@hotmail.com,+1-347-398-8032,Rome,Italy,Electronics,Wireless Earbuds,4,116.93,0.15,397.56,Credit Card,SAVE10,2024-03-21,Pending,False,3.0
+DBF5C8C5,Ethan White,ethan.white24@gmail.com,+1-681-144-7338,Mumbai,India,Sports,Resistance Bands,5,16.68,0.14,71.72,PayPal,,2025-08-06,Delivered,True,4.0
+78485B37,Fatima Williams,fatima.williams45@yahoo.com,+1-379-950-8612,Amsterdam,Netherlands,Electronics,Webcam HD,3,79.09,0.03,230.15,Gift Card,NEWUSER15,2025-02-28,Shipped,True,2.0
+89AB85E3,Liam Khan,liam.khan59@gmail.com,+1-607-934-9897,Tokyo,Japan,Books,Data Science Handbook,2,31.3,0.22,48.83,UPI,SUMMER20,2025-01-22,Delivered,True,3.0
+DB4E1E25,Isabella Thomas,isabella.thomas7@outlook.com,+1-391-608-9151,Paris,France,Books,Python Programming,4,43.97,0.22,137.19,PayPal,FLASH5,2025-05-29,Returned,False,1.0
+FB872111,Ananya White,ananya.white11@hotmail.com,+1-656-717-7981,Berlin,Germany,Sports,Dumbbell Set,3,93.63,0.03,272.46,Debit Card,SUMMER20,2025-02-03,Cancelled,False,4.0
+D1CFA466,Alexander Johnson,alexander.johnson94@outlook.com,+1-725-920-3621,Paris,France,Sports,Jump Rope,1,14.11,0.02,13.83,Credit Card,FLASH5,2025-12-17,Delivered,False,
+C00C3636,Noah Williams,noah.williams31@outlook.com,+1-580-554-2259,Paris,France,Books,Sci-Fi Novel,1,19.48,0.15,16.56,Bank Transfer,DEAL25,2026-01-29,Delivered,False,5.0
+6CD31464,Lucas Sharma,lucas.sharma36@yahoo.com,+1-993-366-8311,Berlin,Germany,Electronics,Wireless Earbuds,4,108.84,0.13,378.76,Debit Card,,2025-10-01,Pending,False,5.0
+021857AC,William Brown,william.brown18@gmail.com,+1-555-826-2063,Amsterdam,Netherlands,Home & Kitchen,Coffee Maker,4,111.88,0.25,335.64,Bank Transfer,NEWUSER15,2026-02-01,Pending,False,4.0
+B47BDEA0,Mei Garcia,mei.garcia92@yahoo.com,+1-569-667-7044,New York,United States,Books,Cooking Basics,2,19.47,0.2,31.15,UPI,DEAL25,2024-11-02,Returned,True,1.0
+B354833A,Liam Taylor,liam.taylor51@hotmail.com,+1-677-796-9476,São Paulo,Brazil,Sports,Jump Rope,5,21.53,0.02,105.5,PayPal,,2025-01-23,Delivered,True,2.0
+AEF6865A,Charlotte Thompson,charlotte.thompson8@gmail.com,+1-731-390-2292,Paris,France,Sports,Dumbbell Set,2,74.32,0.08,136.75,PayPal,SAVE10,2026-03-01,Delivered,False,2.0
+0C9364CD,Raj Taylor,raj.taylor79@icloud.com,+1-839-837-6531,Amsterdam,Netherlands,Electronics,Laptop Stand,5,47.42,0.24,180.2,Bank Transfer,,2024-08-09,Delivered,True,1.0
+8AACB28E,Emma Sharma,emma.sharma99@icloud.com,+1-758-396-5949,Amsterdam,Netherlands,Books,Data Science Handbook,4,53.0,0.15,180.2,UPI,DEAL25,2024-04-05,Delivered,False,4.0
+DD1E49AB,Alexander Williams,alexander.williams89@gmail.com,+1-935-426-6658,Paris,France,Clothing,Cotton T-Shirt,4,18.3,0.05,69.54,UPI,,2025-11-16,Delivered,False,5.0
+66A897CA,Harper Brown,harper.brown41@yahoo.com,+1-830-528-5067,Mumbai,India,Home & Kitchen,Air Fryer,2,84.06,0.04,161.4,Debit Card,SUMMER20,2024-04-25,Returned,False,4.0
+80871D8D,William Zhang,william.zhang21@hotmail.com,+1-668-346-4524,Tokyo,Japan,Sports,Jump Rope,3,17.47,0.12,46.12,Bank Transfer,FLASH5,2024-06-05,Delivered,True,
+AB908BAC,Isabella Martin,isabella.martin77@hotmail.com,+1-574-146-7563,Mumbai,India,Books,Cooking Basics,1,15.15,0.11,13.48,Credit Card,NEWUSER15,2024-11-30,Pending,True,4.0
+A4A7BBC6,Harper Taylor,harper.taylor10@hotmail.com,+1-299-503-7114,Toronto,Canada,Sports,Jump Rope,3,21.46,0.21,50.86,PayPal,,2025-12-03,Pending,False,2.0
+64C2D643,William Patel,william.patel66@hotmail.com,+1-820-627-3290,Toronto,Canada,Sports,Yoga Mat,2,21.35,0.18,35.01,PayPal,DEAL25,2025-07-03,Pending,False,2.0
+E18464FE,Henry Patel,henry.patel95@outlook.com,+1-217-477-6427,São Paulo,Brazil,Sports,Resistance Bands,5,27.67,0.13,120.36,Gift Card,SUMMER20,2026-02-28,Delivered,False,4.0
+9B6F91AB,Fatima Lee,fatima.lee93@gmail.com,+1-736-744-7229,Toronto,Canada,Sports,Jump Rope,5,13.97,0.14,60.07,Debit Card,DEAL25,2024-04-26,Returned,True,
+C4A4A8AC,Ethan Khan,ethan.khan15@yahoo.com,+1-993-726-8726,Tokyo,Japan,Electronics,Bluetooth Speaker,2,74.5,0.1,134.1,Gift Card,FLASH5,2024-09-29,Cancelled,True,2.0
+7BC825AA,Mason Miller,mason.miller72@outlook.com,+1-562-792-5331,Tokyo,Japan,Home & Kitchen,Instant Pot,2,125.21,0.11,222.87,Bank Transfer,NEWUSER15,2025-09-01,Shipped,True,3.0
+B7969835,Benjamin Robinson,benjamin.robinson39@yahoo.com,+1-324-687-9899,Berlin,Germany,Books,Self Help Guide,4,21.45,0.08,78.94,UPI,SUMMER20,2025-02-25,Shipped,False,2.0
+C77F0A25,Isabella Johnson,isabella.johnson37@gmail.com,+1-912-378-3249,Tokyo,Japan,Books,Sci-Fi Novel,4,16.55,0.05,62.89,Credit Card,SUMMER20,2025-09-07,Pending,True,3.0
+5D33C4D7,Emma Ali,emma.ali68@yahoo.com,+1-763-261-7666,New York,United States,Clothing,Running Shoes,3,57.0,0.18,140.22,Gift Card,,2024-06-15,Shipped,False,3.0
+1F6C9014,Mohamed Taylor,mohamed.taylor42@outlook.com,+1-380-137-7504,Mumbai,India,Electronics,Webcam HD,5,54.46,0.06,255.96,UPI,,2024-04-12,Delivered,False,
+D1E2B0EC,James Taylor,james.taylor73@icloud.com,+1-397-928-2845,Berlin,Germany,Electronics,USB-C Hub,5,44.22,0.13,192.36,PayPal,DEAL25,2024-07-20,Delivered,False,4.0
+9147FF59,Arjun Garcia,arjun.garcia2@outlook.com,+1-727-435-2421,Mumbai,India,Books,Cooking Basics,2,28.48,0.04,54.68,UPI,FLASH5,2025-12-19,Cancelled,True,2.0
+2335ECFE,Noah Martin,noah.martin42@yahoo.com,+1-940-686-1187,Mexico City,Mexico,Electronics,USB-C Hub,4,49.17,0.19,159.31,PayPal,SUMMER20,2025-02-05,Cancelled,False,3.0
+A90628DC,Emma Ali,emma.ali16@hotmail.com,+1-320-754-5833,Rome,Italy,Books,Data Science Handbook,5,42.15,0.23,162.28,PayPal,SUMMER20,2026-02-23,Pending,True,3.0
+F08B6AB6,Noah Martin,noah.martin20@hotmail.com,+1-896-872-2341,Sydney,Australia,Sports,Resistance Bands,5,25.39,0.23,97.75,Bank Transfer,SAVE10,2025-09-06,Shipped,False,1.0
+42FF6424,Maria Kumar,maria.kumar15@gmail.com,+1-896-310-9008,London,United Kingdom,Sports,Water Bottle,5,19.03,0.04,91.34,Credit Card,DEAL25,2025-02-03,Pending,False,
+F967C0B8,Alexander Jones,alexander.jones66@hotmail.com,+1-460-936-1049,Mumbai,India,Home & Kitchen,Instant Pot,4,86.92,0.17,288.57,Gift Card,,2025-01-14,Delivered,True,
+9369B07B,Charlotte Thomas,charlotte.thomas90@gmail.com,+1-618-284-3218,Berlin,Germany,Sports,Yoga Mat,1,48.03,0.25,36.02,Gift Card,,2025-07-01,Cancelled,False,4.0
+95D54AC3,Carlos Jackson,carlos.jackson58@hotmail.com,+1-750-502-9664,Toronto,Canada,Home & Kitchen,Air Fryer,5,121.44,0.03,588.98,Debit Card,,2025-02-24,Cancelled,True,
+F7CD88C9,Mohamed Smith,mohamed.smith39@hotmail.com,+1-393-996-2848,Berlin,Germany,Sports,Jump Rope,2,17.97,0.06,33.78,Credit Card,,2025-02-22,Returned,False,
+C28D8EC9,Sophia Miller,sophia.miller9@gmail.com,+1-439-652-4559,São Paulo,Brazil,Sports,Yoga Mat,1,33.38,0.06,31.38,Credit Card,FLASH5,2024-04-19,Delivered,False,3.0
+8765F8C3,Chen Wang,chen.wang74@outlook.com,+1-507-381-1998,Mumbai,India,Sports,Water Bottle,3,30.44,0.06,85.84,Bank Transfer,SAVE10,2024-07-29,Pending,True,5.0
+7B75C954,Harper Martin,harper.martin7@outlook.com,+1-972-650-8758,Toronto,Canada,Home & Kitchen,Instant Pot,4,118.24,0.1,425.66,Debit Card,FLASH5,2025-01-06,Returned,True,4.0
+76BB4224,Mei Khan,mei.khan19@hotmail.com,+1-461-308-6411,Sydney,Australia,Electronics,Laptop Stand,4,39.43,0.14,135.64,Gift Card,FLASH5,2024-07-20,Delivered,False,4.0
+231A5686,Liam Robinson,liam.robinson93@yahoo.com,+1-941-787-4555,Mexico City,Mexico,Electronics,USB-C Hub,5,48.85,0.15,207.61,UPI,SAVE10,2024-05-18,Delivered,False,4.0
+09254169,Maria Smith,maria.smith28@yahoo.com,+1-445-665-6269,Mumbai,India,Electronics,Mechanical Keyboard,4,199.93,0.23,615.78,PayPal,SAVE10,2026-02-15,Shipped,False,5.0
+707B9CBD,Raj Thomas,raj.thomas40@outlook.com,+1-579-420-7781,Sydney,Australia,Books,Cooking Basics,4,32.65,0.02,127.99,Credit Card,NEWUSER15,2025-06-28,Pending,True,2.0
+34CD741F,James Wilson,james.wilson71@icloud.com,+1-763-770-6530,São Paulo,Brazil,Sports,Jump Rope,2,14.42,0.08,26.53,PayPal,SAVE10,2025-03-28,Returned,False,5.0
+FF2A2B40,Alexander Garcia,alexander.garcia94@outlook.com,+1-234-959-2217,Tokyo,Japan,Clothing,Denim Jacket,4,76.01,0.05,288.84,Gift Card,,2025-09-11,Delivered,True,5.0
+D3AE7E29,Noah Gonzalez,noah.gonzalez81@yahoo.com,+1-853-782-8916,Mexico City,Mexico,Electronics,Mechanical Keyboard,2,81.13,0.13,141.17,Gift Card,,2025-03-22,Shipped,True,
+C5F37F91,Harper Robinson,harper.robinson53@gmail.com,+1-309-198-9591,Toronto,Canada,Electronics,Laptop Stand,5,50.27,0.24,191.03,Debit Card,FLASH5,2024-03-22,Delivered,True,5.0
+1165B5A8,Benjamin Gonzalez,benjamin.gonzalez46@outlook.com,+1-900-947-2320,Berlin,Germany,Home & Kitchen,Air Fryer,4,93.56,0.11,333.07,Gift Card,SAVE10,2024-11-09,Returned,True,1.0
+32893FC2,Henry Jackson,henry.jackson49@icloud.com,+1-297-640-1697,Mexico City,Mexico,Home & Kitchen,Air Fryer,2,117.3,0.02,229.91,Debit Card,NEWUSER15,2025-05-23,Delivered,False,4.0
+D25985EB,Emma Williams,emma.williams88@outlook.com,+1-801-247-7525,Sydney,Australia,Sports,Water Bottle,2,28.15,0.23,43.35,Credit Card,,2025-01-21,Delivered,True,3.0
+7DBB1EED,Ethan Gonzalez,ethan.gonzalez50@icloud.com,+1-963-454-1879,Tokyo,Japan,Books,Sci-Fi Novel,2,17.55,0.2,28.08,Credit Card,,2026-02-08,Shipped,True,1.0
+F0D3DA12,Lucas Patel,lucas.patel99@icloud.com,+1-433-464-7150,São Paulo,Brazil,Sports,Jump Rope,3,24.52,0.01,72.82,UPI,DEAL25,2024-12-09,Delivered,False,1.0
+493D3DA4,Mohamed Patel,mohamed.patel38@yahoo.com,+1-598-424-6909,Rome,Italy,Electronics,Wireless Earbuds,4,71.43,0.18,234.29,Credit Card,,2025-12-14,Delivered,True,4.0
+08046EE9,Alexander Thomas,alexander.thomas98@outlook.com,+1-226-191-6798,London,United Kingdom,Electronics,Smartphone Case,4,11.74,0.11,41.79,Bank Transfer,FLASH5,2025-09-24,Delivered,False,5.0
+6448C904,James Taylor,james.taylor53@hotmail.com,+1-342-375-5933,Toronto,Canada,Electronics,Mechanical Keyboard,2,186.15,0.14,320.18,PayPal,FLASH5,2024-08-25,Shipped,True,1.0
+B7C07939,Ava White,ava.white36@hotmail.com,+1-831-300-8501,Mexico City,Mexico,Books,Sci-Fi Novel,3,17.82,0.06,50.25,Credit Card,DEAL25,2024-11-12,Delivered,False,
+728259D5,Henry Anderson,henry.anderson80@hotmail.com,+1-521-281-7524,São Paulo,Brazil,Books,Sci-Fi Novel,5,13.34,0.03,64.7,PayPal,SAVE10,2025-01-27,Delivered,False,3.0
+AA840FDA,Lucas Jackson,lucas.jackson36@hotmail.com,+1-986-663-1440,Amsterdam,Netherlands,Books,Python Programming,2,47.95,0.15,81.52,Gift Card,,2025-09-14,Shipped,True,5.0
+26F208CB,Fatima Taylor,fatima.taylor89@gmail.com,+1-633-908-7176,Rome,Italy,Home & Kitchen,Cutting Board,3,23.97,0.06,67.6,Credit Card,,2026-01-08,Shipped,False,5.0
+9B8B76B6,Harper Thompson,harper.thompson89@hotmail.com,+1-987-354-6816,London,United Kingdom,Sports,Yoga Mat,3,43.71,0.18,107.53,Debit Card,,2025-09-05,Cancelled,True,5.0
+0C16085C,Mohamed Anderson,mohamed.anderson56@gmail.com,+1-583-500-8586,São Paulo,Brazil,Electronics,Wireless Earbuds,5,70.69,0.19,286.29,Gift Card,SAVE10,2025-09-27,Pending,True,4.0
+F8346E9A,James Martin,james.martin14@outlook.com,+1-733-594-6706,Sydney,Australia,Home & Kitchen,Air Fryer,2,70.44,0.09,128.2,UPI,DEAL25,2025-02-19,Delivered,False,5.0
+FCFD0375,Lucas Williams,lucas.williams39@gmail.com,+1-378-665-3623,Tokyo,Japan,Electronics,Wireless Earbuds,1,117.92,0.17,97.87,PayPal,SAVE10,2024-08-20,Pending,False,5.0
+247F04DE,Sophia Lopez,sophia.lopez52@yahoo.com,+1-806-539-7370,São Paulo,Brazil,Clothing,Sneakers,4,112.57,0.01,445.78,Credit Card,SAVE10,2025-11-23,Cancelled,True,3.0
+D0637D9B,Benjamin Zhang,benjamin.zhang91@gmail.com,+1-316-368-9019,São Paulo,Brazil,Sports,Yoga Mat,5,43.98,0.05,208.9,Bank Transfer,SAVE10,2025-02-01,Cancelled,False,5.0
+84E2F606,Evelyn Jackson,evelyn.jackson76@gmail.com,+1-804-186-3194,Mexico City,Mexico,Books,Self Help Guide,5,23.14,0.04,111.07,PayPal,SUMMER20,2026-01-23,Delivered,True,4.0
+89D76900,Olivia Garcia,olivia.garcia48@yahoo.com,+1-850-650-3838,São Paulo,Brazil,Sports,Jump Rope,2,16.26,0.14,27.97,Bank Transfer,,2025-05-12,Delivered,False,4.0
+DDBDCA49,Noah Garcia,noah.garcia41@hotmail.com,+1-717-768-9109,Tokyo,Japan,Sports,Yoga Mat,1,45.96,0.12,40.44,UPI,FLASH5,2024-09-20,Cancelled,False,5.0
+ECC2F0E3,Arjun Gonzalez,arjun.gonzalez57@hotmail.com,+1-495-272-8492,Tokyo,Japan,Clothing,Running Shoes,2,89.57,0.07,166.6,Bank Transfer,SAVE10,2024-12-11,Cancelled,False,5.0
+A37F870F,Mason Brown,mason.brown74@gmail.com,+1-423-535-2677,Tokyo,Japan,Books,Cooking Basics,3,31.46,0.14,81.17,Gift Card,DEAL25,2024-04-16,Returned,True,4.0
+9886E137,Mei Johnson,mei.johnson58@outlook.com,+1-802-805-6744,Rome,Italy,Books,Python Programming,1,33.16,0.19,26.86,Gift Card,SAVE10,2024-11-02,Pending,False,2.0
+6ACE0203,Evelyn Jones,evelyn.jones27@yahoo.com,+1-499-396-5380,Rome,Italy,Electronics,Laptop Stand,3,37.27,0.15,95.04,Bank Transfer,NEWUSER15,2024-08-24,Cancelled,True,2.0
+2A5EBE2D,Mohamed Lopez,mohamed.lopez53@gmail.com,+1-979-963-7434,Sydney,Australia,Books,Data Science Handbook,2,51.03,0.06,95.94,UPI,NEWUSER15,2026-03-03,Delivered,False,5.0
+4DFAC7D3,Henry Harris,henry.harris10@gmail.com,+1-202-989-2526,Mexico City,Mexico,Home & Kitchen,Instant Pot,3,169.97,0.11,453.82,Gift Card,NEWUSER15,2025-07-17,Shipped,False,1.0
+733996EB,Fatima Robinson,fatima.robinson51@yahoo.com,+1-696-907-6631,Mexico City,Mexico,Home & Kitchen,Coffee Maker,3,79.57,0.21,188.58,Gift Card,,2025-02-13,Returned,True,
+0DC3A36D,Olivia Sharma,olivia.sharma59@gmail.com,+1-335-765-5945,Rome,Italy,Electronics,Webcam HD,4,57.89,0.0,231.56,Debit Card,SAVE10,2025-05-17,Returned,False,1.0
+1754D488,Raj Thomas,raj.thomas33@gmail.com,+1-293-820-2559,Amsterdam,Netherlands,Books,Data Science Handbook,3,31.54,0.18,77.59,Credit Card,FLASH5,2024-10-30,Delivered,False,1.0
+10C95DED,Noah Kumar,noah.kumar29@icloud.com,+1-272-334-7276,São Paulo,Brazil,Home & Kitchen,Air Fryer,3,60.72,0.2,145.73,Credit Card,,2025-05-11,Cancelled,True,1.0
+8B65A9D8,Lucas Thomas,lucas.thomas39@yahoo.com,+1-865-268-8210,Mexico City,Mexico,Home & Kitchen,Coffee Maker,2,91.32,0.02,178.99,PayPal,,2025-10-02,Cancelled,True,2.0
+56909772,Maria White,maria.white79@hotmail.com,+1-639-422-3290,Paris,France,Clothing,Running Shoes,2,112.75,0.19,182.66,Debit Card,FLASH5,2025-10-29,Delivered,True,3.0
+D492D570,Harper Patel,harper.patel77@icloud.com,+1-601-402-1894,Rome,Italy,Books,Python Programming,3,45.43,0.05,129.48,Debit Card,SAVE10,2025-11-16,Shipped,False,1.0
+1F4D8026,Sophia Martin,sophia.martin82@icloud.com,+1-782-530-6986,Mumbai,India,Electronics,Laptop Stand,1,56.1,0.25,42.08,Bank Transfer,,2025-01-23,Cancelled,True,5.0
+EB911514,Mohamed Williams,mohamed.williams3@icloud.com,+1-929-613-7806,Amsterdam,Netherlands,Electronics,Wireless Earbuds,1,70.96,0.23,54.64,UPI,SUMMER20,2025-04-16,Cancelled,False,1.0
+19E2FF21,Raj Robinson,raj.robinson69@icloud.com,+1-534-500-2083,Tokyo,Japan,Clothing,Yoga Pants,1,28.33,0.13,24.65,PayPal,,2024-09-29,Cancelled,False,3.0
+4D0777F9,Emma Davis,emma.davis12@hotmail.com,+1-212-824-3248,London,United Kingdom,Electronics,Bluetooth Speaker,1,107.34,0.08,98.75,Gift Card,,2026-01-07,Delivered,True,5.0
+2F24F32B,Mia Thompson,mia.thompson67@outlook.com,+1-639-378-9582,Paris,France,Clothing,Yoga Pants,3,30.07,0.18,73.97,Credit Card,,2024-07-03,Delivered,True,5.0
+D55DCF57,Alexander Thompson,alexander.thompson47@gmail.com,+1-958-621-1042,Sydney,Australia,Home & Kitchen,Instant Pot,2,100.02,0.06,188.04,Credit Card,,2024-06-18,Returned,True,3.0
+1CCD7A9B,Emma Martin,emma.martin47@hotmail.com,+1-529-354-7819,Sydney,Australia,Clothing,Denim Jacket,1,86.55,0.14,74.43,Gift Card,FLASH5,2026-01-05,Delivered,False,1.0
+5F7ABD62,Ethan Thomas,ethan.thomas16@icloud.com,+1-489-892-6090,São Paulo,Brazil,Electronics,Smartphone Case,5,14.45,0.25,54.19,PayPal,,2025-04-19,Delivered,False,
+423B2351,Mia Miller,mia.miller38@icloud.com,+1-759-878-5016,Rome,Italy,Books,Cooking Basics,3,19.84,0.15,50.59,Debit Card,SAVE10,2025-07-23,Delivered,False,
+C266B112,Sophia Robinson,sophia.robinson45@gmail.com,+1-742-343-7878,Sydney,Australia,Books,Python Programming,4,42.76,0.21,135.12,UPI,,2025-01-13,Delivered,True,4.0
+B3344CA9,Liam Johnson,liam.johnson30@icloud.com,+1-336-752-7461,Tokyo,Japan,Home & Kitchen,Cutting Board,4,32.69,0.24,99.38,Credit Card,,2024-05-30,Pending,True,5.0
+3FDAF4EA,Priya Jones,priya.jones31@outlook.com,+1-478-339-2223,São Paulo,Brazil,Books,Self Help Guide,4,24.1,0.18,79.05,Debit Card,NEWUSER15,2025-02-02,Delivered,True,2.0
+93BB212C,Olivia Garcia,olivia.garcia58@hotmail.com,+1-674-371-2964,Berlin,Germany,Books,Sci-Fi Novel,3,11.2,0.24,25.54,Credit Card,DEAL25,2024-10-03,Delivered,False,
+BF42A45E,William Gonzalez,william.gonzalez42@yahoo.com,+1-378-131-7625,Berlin,Germany,Electronics,Mechanical Keyboard,3,94.74,0.1,255.8,UPI,SUMMER20,2024-04-24,Pending,True,1.0
+70B6D9DF,Alexander Brown,alexander.brown18@gmail.com,+1-845-760-2376,Amsterdam,Netherlands,Electronics,Wireless Earbuds,2,116.42,0.03,225.85,Bank Transfer,NEWUSER15,2025-04-19,Pending,False,1.0
+FDAC03B2,James Williams,james.williams26@hotmail.com,+1-787-543-7471,Toronto,Canada,Clothing,Running Shoes,3,113.35,0.03,329.85,UPI,,2025-06-20,Delivered,False,5.0
+FE886F1E,Ava Thomas,ava.thomas28@yahoo.com,+1-502-610-7750,Amsterdam,Netherlands,Books,Self Help Guide,2,18.34,0.01,36.31,Bank Transfer,SAVE10,2025-11-29,Shipped,True,1.0
+94FCA54C,Benjamin Jackson,benjamin.jackson18@hotmail.com,+1-930-467-8859,Mumbai,India,Clothing,Sneakers,5,130.76,0.06,614.57,Bank Transfer,,2025-09-12,Returned,False,4.0
+C9D34779,Maria Kumar,maria.kumar65@outlook.com,+1-683-642-6856,New York,United States,Home & Kitchen,Knife Set,3,40.78,0.15,103.99,Bank Transfer,SUMMER20,2024-04-04,Delivered,True,1.0
+6025F007,Sophia Ali,sophia.ali31@outlook.com,+1-380-342-6210,Toronto,Canada,Sports,Yoga Mat,2,42.91,0.14,73.81,Gift Card,NEWUSER15,2025-04-06,Cancelled,False,
+8047FC26,Arjun Khan,arjun.khan46@icloud.com,+1-702-138-2478,Toronto,Canada,Sports,Dumbbell Set,2,95.04,0.21,150.16,Credit Card,SUMMER20,2025-07-22,Delivered,True,
+E144A011,Mason Martin,mason.martin1@outlook.com,+1-351-700-3320,New York,United States,Sports,Dumbbell Set,3,114.51,0.18,281.69,Credit Card,,2025-01-30,Returned,False,1.0
+E124F216,Mia Khan,mia.khan85@hotmail.com,+1-698-764-6198,Amsterdam,Netherlands,Sports,Yoga Mat,3,30.09,0.03,87.56,Debit Card,FLASH5,2024-08-13,Cancelled,False,3.0
+11FF3E23,Priya Kumar,priya.kumar23@hotmail.com,+1-233-286-6213,Mexico City,Mexico,Books,Self Help Guide,1,14.52,0.24,11.04,Bank Transfer,FLASH5,2025-10-12,Delivered,True,5.0
+CAF6B173,Noah Anderson,noah.anderson96@gmail.com,+1-211-371-4435,São Paulo,Brazil,Clothing,Yoga Pants,2,64.29,0.16,108.01,Debit Card,NEWUSER15,2024-06-03,Cancelled,True,4.0
+1383B06A,Benjamin Lopez,benjamin.lopez14@gmail.com,+1-559-659-7149,Mumbai,India,Electronics,Bluetooth Speaker,4,88.19,0.24,268.1,Credit Card,DEAL25,2025-05-02,Returned,False,3.0
+5F0FF9C8,Ava Harris,ava.harris10@gmail.com,+1-949-176-9962,Toronto,Canada,Books,Python Programming,1,29.55,0.02,28.96,Credit Card,FLASH5,2024-08-26,Delivered,False,
+64EBD896,Charlotte Sharma,charlotte.sharma22@icloud.com,+1-767-839-9849,Rome,Italy,Home & Kitchen,Coffee Maker,3,44.27,0.05,126.17,PayPal,FLASH5,2024-09-15,Cancelled,False,4.0
+4FCC5167,Sophia Brown,sophia.brown7@hotmail.com,+1-501-943-8869,London,United Kingdom,Sports,Water Bottle,2,31.79,0.01,62.94,Debit Card,FLASH5,2024-03-08,Delivered,True,3.0
+0416B4A8,Ava Sharma,ava.sharma38@gmail.com,+1-857-657-7349,London,United Kingdom,Home & Kitchen,Air Fryer,4,87.74,0.12,308.84,Debit Card,SUMMER20,2026-01-10,Delivered,False,4.0
+23F2A802,Ava Harris,ava.harris6@outlook.com,+1-884-452-9871,London,United Kingdom,Home & Kitchen,Blender,3,52.11,0.14,134.44,UPI,,2024-08-06,Returned,True,5.0
+C9719D33,Emma Gonzalez,emma.gonzalez50@icloud.com,+1-280-504-1568,Berlin,Germany,Home & Kitchen,Instant Pot,4,162.44,0.14,558.79,Bank Transfer,DEAL25,2024-11-01,Pending,True,1.0
+70AB536D,Mohamed Harris,mohamed.harris23@yahoo.com,+1-842-251-5225,Sydney,Australia,Clothing,Denim Jacket,4,46.3,0.02,181.5,PayPal,FLASH5,2026-02-02,Cancelled,True,1.0
+A21A9304,Henry Robinson,henry.robinson51@icloud.com,+1-624-253-3428,London,United Kingdom,Books,Self Help Guide,1,19.23,0.2,15.38,Bank Transfer,FLASH5,2025-12-03,Pending,True,1.0
+1E58B784,Ethan Zhang,ethan.zhang13@outlook.com,+1-376-382-7602,New York,United States,Sports,Resistance Bands,3,36.94,0.1,99.74,Debit Card,DEAL25,2025-07-15,Pending,False,
+41FCF8D4,Henry Lee,henry.lee43@yahoo.com,+1-518-387-9054,Berlin,Germany,Electronics,Mechanical Keyboard,3,126.52,0.22,296.06,Gift Card,NEWUSER15,2024-03-25,Cancelled,True,3.0
+79279D81,Noah Taylor,noah.taylor96@hotmail.com,+1-616-858-8937,Sydney,Australia,Books,Self Help Guide,5,21.74,0.16,91.31,Bank Transfer,DEAL25,2024-09-13,Returned,False,
+B7457437,Mason Lopez,mason.lopez21@gmail.com,+1-405-957-1944,Sydney,Australia,Books,Cooking Basics,5,23.06,0.22,89.93,Debit Card,,2024-04-03,Delivered,False,
+E07E3D1A,Maria Thomas,maria.thomas91@yahoo.com,+1-581-600-8308,Sydney,Australia,Books,Self Help Guide,5,22.87,0.1,102.92,Debit Card,,2024-07-09,Returned,False,5.0
+500A2901,Mia Thomas,mia.thomas21@outlook.com,+1-862-330-4387,Sydney,Australia,Electronics,USB-C Hub,1,31.36,0.04,30.11,PayPal,SAVE10,2025-10-11,Cancelled,False,5.0
+BB1FD246,James Nguyen,james.nguyen99@gmail.com,+1-512-829-5511,Mexico City,Mexico,Home & Kitchen,Coffee Maker,5,91.78,0.2,367.12,UPI,SUMMER20,2024-10-20,Shipped,False,5.0
+A4C4A980,Benjamin Miller,benjamin.miller60@outlook.com,+1-862-708-5631,Tokyo,Japan,Sports,Water Bottle,1,22.93,0.0,22.93,PayPal,NEWUSER15,2026-01-12,Cancelled,True,5.0
+3190B09B,Liam Anderson,liam.anderson36@outlook.com,+1-814-513-6236,New York,United States,Books,Self Help Guide,3,20.86,0.05,59.45,Gift Card,SAVE10,2025-08-16,Delivered,True,5.0
+8B23316B,Isabella Wilson,isabella.wilson54@hotmail.com,+1-747-753-8794,Amsterdam,Netherlands,Home & Kitchen,Cutting Board,5,13.77,0.2,55.08,Gift Card,SAVE10,2025-02-19,Delivered,False,2.0
+0E25712C,Chen Ali,chen.ali72@yahoo.com,+1-543-770-2463,Amsterdam,Netherlands,Books,Python Programming,3,34.11,0.18,83.91,Debit Card,,2025-09-28,Delivered,True,4.0
+499D7396,Charlotte Lopez,charlotte.lopez43@outlook.com,+1-399-612-2963,São Paulo,Brazil,Books,Cooking Basics,1,20.87,0.12,18.37,Gift Card,,2025-12-14,Shipped,False,5.0
+F668A193,Emma Nguyen,emma.nguyen20@yahoo.com,+1-932-284-2324,Paris,France,Clothing,Yoga Pants,5,41.36,0.22,161.3,UPI,,2025-06-16,Delivered,True,4.0
+200830B8,Raj Johnson,raj.johnson1@hotmail.com,+1-332-729-8105,London,United Kingdom,Books,Data Science Handbook,2,52.83,0.14,90.87,Gift Card,DEAL25,2024-08-14,Shipped,False,5.0
+AC6B3509,Amelia Jackson,amelia.jackson1@gmail.com,+1-892-104-5076,New York,United States,Sports,Dumbbell Set,1,108.44,0.22,84.58,Debit Card,SAVE10,2025-08-30,Cancelled,False,4.0
+FD3445C3,Noah Brown,noah.brown50@icloud.com,+1-732-710-9587,Rome,Italy,Sports,Resistance Bands,1,19.17,0.07,17.83,PayPal,DEAL25,2024-12-27,Shipped,True,4.0
+830CCCF4,Carlos Martin,carlos.martin46@yahoo.com,+1-222-703-9267,Rome,Italy,Clothing,Cotton T-Shirt,2,10.37,0.18,17.01,Debit Card,SAVE10,2024-07-17,Delivered,False,
+7DDE3B98,Henry Lee,henry.lee82@outlook.com,+1-906-218-7828,New York,United States,Sports,Water Bottle,1,15.96,0.17,13.25,UPI,,2026-01-03,Shipped,True,5.0
+97F084D2,Benjamin Martin,benjamin.martin90@yahoo.com,+1-732-376-3247,Amsterdam,Netherlands,Clothing,Sneakers,1,114.85,0.08,105.66,UPI,,2026-01-11,Returned,True,5.0
+4838BBC0,Ananya Patel,ananya.patel16@outlook.com,+1-920-519-5839,Paris,France,Electronics,Webcam HD,2,55.3,0.15,94.01,Debit Card,SAVE10,2024-11-29,Delivered,False,3.0
+646BCDCC,Arjun Martin,arjun.martin43@yahoo.com,+1-292-898-9383,Toronto,Canada,Electronics,Wireless Earbuds,1,103.72,0.21,81.94,Credit Card,DEAL25,2026-01-19,Cancelled,True,4.0
+CED7C0E2,Raj Davis,raj.davis59@outlook.com,+1-520-536-2898,Amsterdam,Netherlands,Books,Sci-Fi Novel,2,10.49,0.22,16.36,Credit Card,NEWUSER15,2024-12-27,Returned,True,
+7B5966FC,Mei Jones,mei.jones85@yahoo.com,+1-387-216-7566,Paris,France,Books,Self Help Guide,5,23.72,0.07,110.3,UPI,NEWUSER15,2024-06-08,Shipped,False,5.0
+C0E7D4CC,Arjun Nguyen,arjun.nguyen62@hotmail.com,+1-804-594-8178,Mumbai,India,Clothing,Running Shoes,1,59.27,0.25,44.45,Debit Card,,2024-08-15,Pending,False,4.0
+3910188B,Evelyn Smith,evelyn.smith88@yahoo.com,+1-521-112-9598,Amsterdam,Netherlands,Home & Kitchen,Blender,4,42.33,0.11,150.69,Gift Card,SUMMER20,2024-05-08,Pending,True,4.0
+C9E2E01F,Mason Thompson,mason.thompson89@icloud.com,+1-771-727-1894,Toronto,Canada,Electronics,Bluetooth Speaker,2,112.78,0.12,198.49,Credit Card,FLASH5,2026-01-13,Cancelled,True,5.0
+5C23F9D2,Mei Martin,mei.martin64@yahoo.com,+1-428-663-7203,Tokyo,Japan,Electronics,Webcam HD,2,74.57,0.08,137.21,UPI,,2024-12-14,Returned,True,1.0
+32D515CF,Alexander Harris,alexander.harris74@hotmail.com,+1-613-522-1587,London,United Kingdom,Electronics,Webcam HD,3,74.91,0.03,217.99,Bank Transfer,,2025-07-27,Pending,True,1.0
+E7BB90BF,Fatima Patel,fatima.patel80@outlook.com,+1-665-439-8751,Sydney,Australia,Sports,Water Bottle,4,19.13,0.24,58.16,Gift Card,,2025-03-12,Cancelled,False,5.0
+55754577,Olivia Brown,olivia.brown98@yahoo.com,+1-368-604-3301,New York,United States,Electronics,USB-C Hub,3,47.75,0.14,123.19,Gift Card,,2025-03-22,Cancelled,False,1.0
+4CC5C0AA,Benjamin Patel,benjamin.patel26@yahoo.com,+1-975-524-1761,London,United Kingdom,Electronics,Webcam HD,4,69.63,0.21,220.03,Gift Card,NEWUSER15,2024-09-16,Returned,True,5.0
+AE3DE864,Alexander Ali,alexander.ali76@icloud.com,+1-999-281-3845,Tokyo,Japan,Clothing,Cotton T-Shirt,1,10.08,0.14,8.67,Gift Card,DEAL25,2025-05-22,Returned,True,1.0
+CF753051,Henry Ali,henry.ali77@icloud.com,+1-607-451-5819,Berlin,Germany,Books,Cooking Basics,4,32.62,0.24,99.16,UPI,SAVE10,2026-02-12,Returned,True,2.0
+37B979A5,Charlotte Patel,charlotte.patel90@icloud.com,+1-931-397-6657,Mexico City,Mexico,Books,Cooking Basics,5,32.2,0.16,135.24,Gift Card,SAVE10,2024-09-26,Delivered,True,5.0
+5848EB1B,Harper Khan,harper.khan82@outlook.com,+1-965-961-9747,Amsterdam,Netherlands,Electronics,Webcam HD,4,67.6,0.15,229.84,PayPal,FLASH5,2026-01-17,Returned,False,
+EF8BDDAC,Mason Brown,mason.brown4@hotmail.com,+1-456-249-2016,Amsterdam,Netherlands,Clothing,Running Shoes,2,96.91,0.07,180.25,Gift Card,SUMMER20,2024-08-16,Returned,False,3.0
+E5439B3F,Mohamed Robinson,mohamed.robinson5@outlook.com,+1-723-903-5712,Sydney,Australia,Home & Kitchen,Air Fryer,5,115.44,0.22,450.22,Gift Card,FLASH5,2025-12-27,Cancelled,True,5.0
+0AF8B1CC,Henry White,henry.white88@outlook.com,+1-921-826-7025,Amsterdam,Netherlands,Sports,Yoga Mat,3,20.38,0.05,58.08,Bank Transfer,SAVE10,2025-06-01,Pending,True,3.0
+6A96DD75,Isabella Harris,isabella.harris23@gmail.com,+1-470-233-3636,Tokyo,Japan,Clothing,Denim Jacket,1,76.74,0.09,69.83,Bank Transfer,SUMMER20,2025-05-17,Returned,False,
+084B9B3D,Lucas Harris,lucas.harris91@yahoo.com,+1-786-663-6866,São Paulo,Brazil,Electronics,Smartphone Case,5,28.56,0.01,141.37,Credit Card,SUMMER20,2025-12-05,Returned,False,5.0
+0E3A71C6,Sophia Garcia,sophia.garcia67@gmail.com,+1-879-439-6424,Sydney,Australia,Sports,Dumbbell Set,5,83.26,0.1,374.67,PayPal,SAVE10,2025-02-25,Delivered,True,5.0
+5C7B2E8A,Amelia Robinson,amelia.robinson97@gmail.com,+1-898-428-7248,New York,United States,Electronics,Mechanical Keyboard,2,108.43,0.23,166.98,Credit Card,SAVE10,2025-11-23,Shipped,False,5.0
+AFF31BA4,Ananya Taylor,ananya.taylor4@icloud.com,+1-726-184-2572,Paris,France,Books,Cooking Basics,4,31.05,0.12,109.3,Debit Card,SAVE10,2025-01-02,Returned,True,1.0
+8174EF5A,William Ali,william.ali81@yahoo.com,+1-670-834-6434,New York,United States,Home & Kitchen,Air Fryer,4,78.49,0.16,263.73,Credit Card,,2024-05-17,Delivered,True,
+3B560474,Ava Lopez,ava.lopez33@icloud.com,+1-523-117-7381,Mumbai,India,Electronics,Laptop Stand,3,53.75,0.1,145.12,Gift Card,FLASH5,2025-06-09,Delivered,True,1.0
+C5D61A2A,Mohamed Wang,mohamed.wang75@gmail.com,+1-288-388-8170,Mexico City,Mexico,Electronics,USB-C Hub,1,76.39,0.07,71.04,UPI,SUMMER20,2026-02-05,Shipped,True,5.0
+FA36B636,Ava Robinson,ava.robinson29@yahoo.com,+1-766-995-3316,New York,United States,Home & Kitchen,Instant Pot,2,115.39,0.07,214.63,Credit Card,NEWUSER15,2025-12-28,Delivered,True,5.0
+2873FAB9,Harper Robinson,harper.robinson11@outlook.com,+1-388-326-5140,Toronto,Canada,Clothing,Sneakers,3,119.3,0.05,340.0,Debit Card,,2025-12-26,Delivered,True,
+38BE7901,Mei Zhang,mei.zhang71@hotmail.com,+1-565-231-4842,Paris,France,Sports,Yoga Mat,1,28.71,0.06,26.99,Credit Card,DEAL25,2024-09-23,Delivered,True,3.0
+B41FBA4D,Lucas Martin,lucas.martin58@outlook.com,+1-372-104-6131,Mumbai,India,Sports,Resistance Bands,2,32.33,0.14,55.61,Debit Card,NEWUSER15,2025-03-13,Returned,True,5.0
+6797B4B1,Benjamin Gonzalez,benjamin.gonzalez47@yahoo.com,+1-861-721-2343,Toronto,Canada,Books,Sci-Fi Novel,3,14.62,0.19,35.53,PayPal,,2025-07-16,Returned,True,5.0
+014F8285,William Wilson,william.wilson94@gmail.com,+1-417-137-5269,Mexico City,Mexico,Electronics,Wireless Earbuds,1,117.96,0.2,94.37,Bank Transfer,FLASH5,2025-10-18,Pending,False,2.0
+EAE1C652,Mia Jackson,mia.jackson29@icloud.com,+1-444-968-3717,Amsterdam,Netherlands,Books,Data Science Handbook,5,43.93,0.02,215.26,Bank Transfer,,2025-03-12,Delivered,False,2.0
+F641C0B4,Ava Kumar,ava.kumar73@yahoo.com,+1-243-784-4387,Sydney,Australia,Home & Kitchen,Knife Set,4,32.42,0.06,121.9,Bank Transfer,NEWUSER15,2024-11-30,Returned,False,5.0
+DA2F6EAC,Amelia Harris,amelia.harris6@gmail.com,+1-757-683-3848,Mexico City,Mexico,Books,Python Programming,5,41.1,0.16,172.62,UPI,SUMMER20,2024-12-10,Cancelled,False,4.0
+6517F0E3,Ethan Sharma,ethan.sharma10@icloud.com,+1-693-718-1108,São Paulo,Brazil,Books,Sci-Fi Novel,2,19.72,0.13,34.31,Bank Transfer,NEWUSER15,2025-03-01,Delivered,False,2.0
+F128A092,Sophia Williams,sophia.williams66@outlook.com,+1-538-837-2856,Mumbai,India,Clothing,Denim Jacket,3,49.34,0.15,125.82,UPI,SAVE10,2024-07-04,Cancelled,False,5.0
+7C37407E,William Kumar,william.kumar21@hotmail.com,+1-350-157-3725,Mexico City,Mexico,Electronics,Smartphone Case,5,10.85,0.15,46.11,PayPal,,2024-07-20,Delivered,False,
+90375A2A,Carlos Wang,carlos.wang94@outlook.com,+1-815-246-3979,Mumbai,India,Electronics,Smartphone Case,4,18.97,0.22,59.19,Bank Transfer,SAVE10,2024-08-26,Cancelled,False,2.0
+7D53F573,Ananya Ali,ananya.ali44@hotmail.com,+1-735-980-9263,Sydney,Australia,Sports,Water Bottle,4,16.37,0.1,58.93,Gift Card,,2024-06-24,Shipped,True,1.0
+7B485390,Ava Martin,ava.martin79@icloud.com,+1-752-947-1019,Mexico City,Mexico,Electronics,Webcam HD,1,76.56,0.02,75.03,Gift Card,,2026-01-09,Cancelled,False,5.0
+99F7B05D,Charlotte Thomas,charlotte.thomas6@icloud.com,+1-959-879-2600,Mexico City,Mexico,Home & Kitchen,Coffee Maker,4,115.06,0.2,368.19,UPI,NEWUSER15,2025-03-30,Delivered,False,5.0
+F1C91E3D,Mohamed Davis,mohamed.davis11@outlook.com,+1-207-484-4365,Tokyo,Japan,Sports,Water Bottle,2,23.16,0.0,46.32,Gift Card,,2024-03-12,Returned,False,5.0
+B33B4D0B,Mia Brown,mia.brown20@hotmail.com,+1-606-873-4337,Amsterdam,Netherlands,Sports,Resistance Bands,5,21.52,0.11,95.76,UPI,SUMMER20,2025-03-14,Pending,False,2.0
+FE405F7E,Mia Robinson,mia.robinson72@hotmail.com,+1-435-557-3650,Rome,Italy,Books,Self Help Guide,4,19.92,0.18,65.34,Credit Card,,2026-01-09,Delivered,False,4.0
+2CDF5612,Fatima Robinson,fatima.robinson79@gmail.com,+1-645-190-2049,Mexico City,Mexico,Clothing,Cotton T-Shirt,1,29.28,0.2,23.42,PayPal,DEAL25,2024-07-31,Delivered,False,1.0
+DFCC9ED1,Evelyn Johnson,evelyn.johnson93@hotmail.com,+1-855-606-8192,Toronto,Canada,Home & Kitchen,Instant Pot,3,158.73,0.18,390.48,Credit Card,,2025-11-06,Delivered,False,3.0
+BE0A7221,Emma Lopez,emma.lopez77@icloud.com,+1-288-382-7544,Toronto,Canada,Sports,Dumbbell Set,1,99.21,0.09,90.28,PayPal,,2026-01-04,Cancelled,False,5.0
+4475ABC1,Ethan Miller,ethan.miller67@gmail.com,+1-431-720-4187,Berlin,Germany,Electronics,Wireless Earbuds,5,93.96,0.23,361.75,UPI,NEWUSER15,2025-02-24,Shipped,True,4.0
+2A6D18F4,Ava White,ava.white65@gmail.com,+1-788-356-8254,Tokyo,Japan,Sports,Yoga Mat,3,35.09,0.24,80.01,UPI,SUMMER20,2025-08-12,Pending,False,3.0
+197EC162,Mohamed Anderson,mohamed.anderson59@hotmail.com,+1-918-335-6172,Amsterdam,Netherlands,Sports,Yoga Mat,3,34.45,0.02,101.28,UPI,SAVE10,2025-12-13,Delivered,True,4.0
+799DE71F,Sophia Taylor,sophia.taylor12@hotmail.com,+1-475-287-4115,Mexico City,Mexico,Books,Python Programming,2,36.63,0.12,64.47,UPI,SAVE10,2025-03-02,Cancelled,True,3.0
+28630B34,Ananya Davis,ananya.davis34@yahoo.com,+1-892-779-9071,London,United Kingdom,Clothing,Denim Jacket,5,81.74,0.09,371.92,Bank Transfer,,2024-06-22,Delivered,True,5.0
+FE0AC8A3,Mia Patel,mia.patel41@hotmail.com,+1-738-918-7933,New York,United States,Sports,Resistance Bands,5,27.26,0.07,126.76,UPI,,2024-10-18,Pending,True,5.0
+FC53ACAB,Mia Jackson,mia.jackson88@yahoo.com,+1-415-488-2650,Amsterdam,Netherlands,Home & Kitchen,Air Fryer,4,122.83,0.08,452.01,PayPal,,2024-03-13,Delivered,False,2.0
+927F4DE5,Harper Wilson,harper.wilson31@outlook.com,+1-970-481-6981,Rome,Italy,Home & Kitchen,Instant Pot,2,121.16,0.12,213.24,UPI,FLASH5,2024-10-06,Delivered,False,2.0
+21EFA5E7,Ethan Jones,ethan.jones74@yahoo.com,+1-956-253-8749,Toronto,Canada,Electronics,Mechanical Keyboard,2,97.78,0.14,168.18,Credit Card,SAVE10,2025-03-30,Delivered,False,5.0
+7EBAF654,Noah Lee,noah.lee81@icloud.com,+1-301-807-3676,Mumbai,India,Sports,Resistance Bands,3,34.62,0.06,97.63,Credit Card,,2025-10-07,Delivered,False,5.0
+FA0AB61E,Chen Sharma,chen.sharma13@hotmail.com,+1-621-224-6752,New York,United States,Books,Self Help Guide,5,17.32,0.14,74.48,Gift Card,NEWUSER15,2024-11-23,Pending,True,5.0
+980BEF99,Ava Zhang,ava.zhang37@outlook.com,+1-846-248-3745,São Paulo,Brazil,Books,Cooking Basics,4,24.74,0.22,77.19,Gift Card,SUMMER20,2025-03-30,Returned,False,5.0
+33A8974F,Raj Patel,raj.patel74@hotmail.com,+1-473-719-7479,Rome,Italy,Electronics,Wireless Earbuds,2,62.95,0.08,115.83,PayPal,SUMMER20,2026-01-02,Shipped,False,5.0
+D9F959E4,Alexander White,alexander.white22@yahoo.com,+1-370-506-2687,Sydney,Australia,Electronics,Smartphone Case,3,24.55,0.24,55.97,Credit Card,,2026-02-20,Delivered,False,5.0
+D2927325,Emma Smith,emma.smith99@hotmail.com,+1-434-353-5655,Berlin,Germany,Sports,Yoga Mat,5,23.11,0.04,110.93,UPI,FLASH5,2026-01-04,Cancelled,True,2.0
+0F7D4CB6,Mason Gonzalez,mason.gonzalez22@gmail.com,+1-655-238-9835,Tokyo,Japan,Electronics,Mechanical Keyboard,3,109.95,0.22,257.28,Debit Card,SUMMER20,2025-06-26,Pending,False,5.0
+11B81D24,Mason Sharma,mason.sharma82@icloud.com,+1-622-366-3551,Paris,France,Books,Self Help Guide,2,18.77,0.2,30.03,PayPal,SUMMER20,2025-05-31,Delivered,True,5.0
+30B4D9B0,Chen Zhang,chen.zhang18@outlook.com,+1-984-540-5799,New York,United States,Books,Sci-Fi Novel,4,15.34,0.24,46.63,Bank Transfer,SUMMER20,2025-07-06,Delivered,True,5.0
+03EA22D4,Mia Miller,mia.miller53@icloud.com,+1-632-740-4924,London,United Kingdom,Home & Kitchen,Blender,4,51.23,0.21,161.89,Bank Transfer,SUMMER20,2024-10-16,Returned,False,4.0
+4073FA83,Raj Wang,raj.wang69@outlook.com,+1-663-378-9060,Mexico City,Mexico,Home & Kitchen,Coffee Maker,2,108.27,0.03,210.04,Debit Card,DEAL25,2024-06-26,Delivered,True,2.0
+4B1FD581,Emma Robinson,emma.robinson3@yahoo.com,+1-215-605-4558,Toronto,Canada,Electronics,USB-C Hub,4,43.45,0.18,142.52,PayPal,,2024-10-29,Shipped,False,5.0
+DF6C3363,Mia Harris,mia.harris90@gmail.com,+1-681-285-4148,Tokyo,Japan,Books,Python Programming,2,45.3,0.01,89.69,PayPal,,2025-04-10,Returned,False,
+2076A030,Olivia Zhang,olivia.zhang92@yahoo.com,+1-598-797-6113,São Paulo,Brazil,Home & Kitchen,Blender,1,51.06,0.05,48.51,PayPal,SAVE10,2024-06-09,Delivered,True,5.0
+CAC700C9,Mason Brown,mason.brown33@hotmail.com,+1-848-544-6316,Sydney,Australia,Books,Data Science Handbook,1,40.8,0.22,31.82,Credit Card,,2024-10-14,Delivered,False,1.0
+A22FF7AB,Henry Lopez,henry.lopez32@gmail.com,+1-454-261-9190,London,United Kingdom,Electronics,Laptop Stand,4,52.41,0.17,174.0,Credit Card,NEWUSER15,2024-08-10,Cancelled,False,
+E21C6DD2,Emma Thomas,emma.thomas83@yahoo.com,+1-950-297-1349,São Paulo,Brazil,Sports,Yoga Mat,2,23.76,0.08,43.72,Gift Card,NEWUSER15,2025-09-27,Shipped,False,2.0
+5BF6FD27,Benjamin Lee,benjamin.lee6@hotmail.com,+1-949-579-5510,Paris,France,Home & Kitchen,Instant Pot,4,115.36,0.05,438.37,Bank Transfer,NEWUSER15,2024-09-12,Returned,True,1.0
+3623D37E,Mason Jones,mason.jones58@outlook.com,+1-389-119-6965,Rome,Italy,Books,Cooking Basics,1,22.33,0.19,18.09,Bank Transfer,FLASH5,2025-08-05,Delivered,False,1.0
+B1BBD6FA,Priya Robinson,priya.robinson50@yahoo.com,+1-529-213-2577,Amsterdam,Netherlands,Sports,Jump Rope,2,21.48,0.15,36.52,Bank Transfer,FLASH5,2025-01-29,Cancelled,True,
+A78A48F3,Chen Jones,chen.jones23@gmail.com,+1-701-638-5193,Amsterdam,Netherlands,Clothing,Running Shoes,1,83.97,0.01,83.13,Credit Card,FLASH5,2025-12-22,Delivered,True,1.0
+01A6EEC7,James Miller,james.miller84@hotmail.com,+1-259-943-5355,Rome,Italy,Electronics,Bluetooth Speaker,1,128.1,0.09,116.57,Bank Transfer,NEWUSER15,2025-05-04,Delivered,True,4.0
+05459D9F,Liam Miller,liam.miller67@gmail.com,+1-840-283-7802,Mexico City,Mexico,Electronics,Mechanical Keyboard,4,92.33,0.05,350.85,Gift Card,SAVE10,2025-08-25,Delivered,False,5.0
+87196535,Arjun Ali,arjun.ali55@gmail.com,+1-522-663-6319,Paris,France,Clothing,Denim Jacket,5,67.49,0.08,310.45,PayPal,DEAL25,2024-08-13,Shipped,False,4.0
+79D88F37,Evelyn Davis,evelyn.davis73@icloud.com,+1-200-843-1567,Mumbai,India,Clothing,Cotton T-Shirt,3,25.3,0.09,69.07,PayPal,DEAL25,2025-06-11,Pending,True,5.0
+04A18BCB,Noah Lee,noah.lee39@gmail.com,+1-723-669-3534,Tokyo,Japan,Books,Data Science Handbook,3,36.43,0.01,108.2,Credit Card,SUMMER20,2026-02-09,Delivered,False,4.0
+2B06E63E,Noah Jones,noah.jones34@outlook.com,+1-279-840-6319,Rome,Italy,Sports,Dumbbell Set,3,68.63,0.02,201.77,UPI,SAVE10,2025-04-18,Delivered,False,1.0
+018DA5D7,Evelyn Sharma,evelyn.sharma39@gmail.com,+1-626-988-2974,Mumbai,India,Sports,Jump Rope,1,11.17,0.23,8.6,Debit Card,NEWUSER15,2025-02-10,Cancelled,True,5.0
+1D9BE755,Emma Taylor,emma.taylor68@gmail.com,+1-889-849-7436,New York,United States,Books,Cooking Basics,3,26.29,0.13,68.62,UPI,,2024-10-17,Returned,True,3.0
+96D10DA3,Charlotte Taylor,charlotte.taylor51@yahoo.com,+1-287-508-9221,Berlin,Germany,Clothing,Yoga Pants,5,28.29,0.19,114.57,UPI,FLASH5,2025-09-17,Returned,True,2.0
+E8F2C6A9,Amelia Robinson,amelia.robinson26@hotmail.com,+1-273-372-8046,Sydney,Australia,Home & Kitchen,Cutting Board,5,25.56,0.15,108.63,PayPal,SAVE10,2025-08-23,Cancelled,True,1.0
+81A10B26,Priya White,priya.white55@outlook.com,+1-831-941-8245,Paris,France,Books,Data Science Handbook,5,39.61,0.16,166.36,Bank Transfer,,2025-01-11,Delivered,False,
+9B776E58,Maria Gonzalez,maria.gonzalez30@yahoo.com,+1-351-989-5713,Mexico City,Mexico,Books,Data Science Handbook,1,52.72,0.03,51.14,Credit Card,SAVE10,2024-04-29,Delivered,True,4.0
+305B51AC,Alexander Martin,alexander.martin3@outlook.com,+1-947-244-1301,Mexico City,Mexico,Clothing,Sneakers,2,103.03,0.14,177.21,UPI,DEAL25,2024-11-24,Pending,True,4.0
+1A943462,Ava Johnson,ava.johnson37@yahoo.com,+1-875-468-2767,Amsterdam,Netherlands,Sports,Resistance Bands,1,16.32,0.02,15.99,Credit Card,SUMMER20,2026-01-10,Delivered,False,3.0
+5917DB47,Henry Thompson,henry.thompson91@gmail.com,+1-929-122-1651,Tokyo,Japan,Books,Sci-Fi Novel,5,18.66,0.02,91.43,Debit Card,DEAL25,2024-09-24,Pending,False,4.0
+B1A70F0F,Amelia Jackson,amelia.jackson96@yahoo.com,+1-840-363-7343,New York,United States,Electronics,USB-C Hub,3,64.21,0.16,161.81,Credit Card,SUMMER20,2024-11-01,Pending,False,3.0
+13B11EFC,Noah Anderson,noah.anderson51@yahoo.com,+1-446-686-3502,Mumbai,India,Electronics,Mechanical Keyboard,5,113.5,0.22,442.65,UPI,SAVE10,2026-02-05,Delivered,False,5.0
+EAFE31E8,Harper Jones,harper.jones27@yahoo.com,+1-988-248-3589,Mumbai,India,Sports,Water Bottle,2,28.67,0.22,44.73,PayPal,,2025-01-15,Delivered,True,2.0
+22BB1895,Lucas Gonzalez,lucas.gonzalez19@gmail.com,+1-997-292-2749,Toronto,Canada,Books,Sci-Fi Novel,3,19.6,0.11,52.33,Debit Card,SUMMER20,2025-12-17,Delivered,True,4.0
+716079DB,Evelyn Kumar,evelyn.kumar79@yahoo.com,+1-714-966-8680,Toronto,Canada,Sports,Dumbbell Set,1,68.46,0.09,62.3,Gift Card,DEAL25,2026-02-07,Cancelled,False,2.0
+A681BC7F,Mei Jackson,mei.jackson63@hotmail.com,+1-427-860-4323,Mumbai,India,Clothing,Denim Jacket,1,49.65,0.1,44.69,Debit Card,SUMMER20,2024-03-20,Delivered,True,5.0
+9DDBA62F,Mei Patel,mei.patel63@outlook.com,+1-826-860-9784,Mumbai,India,Home & Kitchen,Coffee Maker,1,74.19,0.15,63.06,Bank Transfer,NEWUSER15,2025-03-29,Cancelled,True,5.0
+F02970ED,Olivia Harris,olivia.harris59@gmail.com,+1-498-550-7521,Sydney,Australia,Clothing,Winter Coat,1,144.53,0.14,124.3,PayPal,,2025-08-15,Returned,False,5.0
+F41A10EE,Ava White,ava.white38@icloud.com,+1-939-612-2854,London,United Kingdom,Electronics,Mechanical Keyboard,2,132.37,0.12,232.97,Debit Card,DEAL25,2025-12-26,Returned,True,5.0
+5456B17E,Charlotte Anderson,charlotte.anderson58@gmail.com,+1-908-764-3686,Paris,France,Clothing,Cotton T-Shirt,2,21.8,0.22,34.01,Gift Card,SUMMER20,2024-06-05,Cancelled,True,1.0
+2D605FD6,Olivia Khan,olivia.khan58@outlook.com,+1-589-144-3799,Tokyo,Japan,Electronics,Laptop Stand,5,49.74,0.15,211.4,PayPal,FLASH5,2024-08-15,Pending,True,2.0
+D25D50AB,Mei Jones,mei.jones23@gmail.com,+1-407-103-5146,Toronto,Canada,Home & Kitchen,Knife Set,4,48.56,0.07,180.64,Credit Card,,2024-09-06,Shipped,False,5.0
+58720AEA,Harper Lopez,harper.lopez1@icloud.com,+1-814-106-5009,Mexico City,Mexico,Home & Kitchen,Coffee Maker,4,57.34,0.11,204.13,Bank Transfer,,2025-05-31,Delivered,True,
+389633AD,Ava Jones,ava.jones8@outlook.com,+1-250-211-7831,London,United Kingdom,Electronics,Smartphone Case,5,27.07,0.21,106.93,Debit Card,NEWUSER15,2025-01-04,Delivered,False,5.0
+4B618ADA,Ava Harris,ava.harris96@icloud.com,+1-763-166-5797,Mumbai,India,Books,Python Programming,3,22.78,0.08,62.87,UPI,,2025-03-28,Delivered,True,4.0
+90217E8D,Lucas Thompson,lucas.thompson53@icloud.com,+1-941-805-5705,São Paulo,Brazil,Clothing,Sneakers,1,76.71,0.03,74.41,UPI,,2025-12-09,Pending,False,4.0
+01A1F506,Mason Kumar,mason.kumar80@outlook.com,+1-824-338-5759,Toronto,Canada,Clothing,Winter Coat,5,147.51,0.18,604.79,Debit Card,DEAL25,2025-07-27,Delivered,True,
+6352E20F,Alexander Sharma,alexander.sharma16@yahoo.com,+1-855-306-5614,New York,United States,Sports,Jump Rope,3,16.2,0.09,44.23,PayPal,SAVE10,2025-12-17,Returned,True,4.0
+F01C27B8,Isabella Thompson,isabella.thompson71@outlook.com,+1-398-438-6536,Toronto,Canada,Electronics,Wireless Earbuds,3,104.86,0.1,283.12,Gift Card,,2025-10-08,Shipped,False,
+3C6846DD,Raj Jones,raj.jones62@yahoo.com,+1-506-678-6169,Tokyo,Japan,Home & Kitchen,Instant Pot,4,187.5,0.2,600.0,Bank Transfer,,2025-05-02,Pending,True,3.0
+C1B1463D,Ethan Ali,ethan.ali43@outlook.com,+1-820-498-4070,Mexico City,Mexico,Electronics,Smartphone Case,1,15.6,0.08,14.35,Bank Transfer,,2025-03-24,Delivered,False,4.0
+EE88DD5E,Arjun Johnson,arjun.johnson35@hotmail.com,+1-509-279-2838,Tokyo,Japan,Electronics,Bluetooth Speaker,3,136.47,0.11,364.37,PayPal,SAVE10,2025-01-08,Returned,True,3.0
+1332225C,Maria Williams,maria.williams57@icloud.com,+1-736-417-6363,Rome,Italy,Electronics,Webcam HD,5,74.12,0.04,355.78,Debit Card,DEAL25,2025-02-16,Returned,True,5.0
+9B2B0CEE,Priya Jones,priya.jones27@gmail.com,+1-808-992-2426,Amsterdam,Netherlands,Home & Kitchen,Blender,5,81.38,0.03,394.69,PayPal,,2025-01-17,Shipped,True,1.0
+07B00FD5,Mason Zhang,mason.zhang85@outlook.com,+1-745-426-8227,Berlin,Germany,Electronics,Laptop Stand,2,51.54,0.08,94.83,Gift Card,SUMMER20,2024-09-18,Delivered,False,2.0
+F9139F15,Ava Wilson,ava.wilson15@gmail.com,+1-344-821-5641,Berlin,Germany,Sports,Water Bottle,2,25.27,0.14,43.46,Bank Transfer,NEWUSER15,2025-09-18,Delivered,True,1.0
+2730E966,Isabella Patel,isabella.patel44@icloud.com,+1-255-188-7987,Mumbai,India,Home & Kitchen,Air Fryer,4,71.7,0.23,220.84,UPI,,2024-04-25,Delivered,False,4.0
+7BB33168,Isabella Anderson,isabella.anderson26@icloud.com,+1-666-417-8625,London,United Kingdom,Electronics,Webcam HD,5,88.21,0.03,427.82,UPI,DEAL25,2026-02-18,Delivered,True,2.0
+B9939C08,Mei Lee,mei.lee79@outlook.com,+1-230-166-8787,São Paulo,Brazil,Books,Sci-Fi Novel,3,11.82,0.2,28.37,Credit Card,DEAL25,2025-01-31,Delivered,False,5.0
+5848BBC4,Mei Garcia,mei.garcia37@outlook.com,+1-865-172-5949,Tokyo,Japan,Sports,Water Bottle,1,17.54,0.1,15.79,Bank Transfer,NEWUSER15,2024-06-22,Shipped,False,5.0
+CA99A99D,Sophia Patel,sophia.patel32@icloud.com,+1-780-906-6606,Mumbai,India,Clothing,Cotton T-Shirt,3,17.67,0.05,50.36,Bank Transfer,FLASH5,2026-02-13,Cancelled,True,2.0
+6401E5E8,Priya Ali,priya.ali10@icloud.com,+1-515-515-2140,Toronto,Canada,Home & Kitchen,Air Fryer,4,113.28,0.08,416.87,Bank Transfer,DEAL25,2024-06-12,Delivered,False,4.0
+1A0B37EF,Amelia Sharma,amelia.sharma85@gmail.com,+1-876-252-8421,Toronto,Canada,Electronics,Smartphone Case,5,26.33,0.23,101.37,Bank Transfer,,2025-12-16,Delivered,False,5.0
+D2FA9BAD,William Miller,william.miller88@outlook.com,+1-796-108-9362,London,United Kingdom,Books,Cooking Basics,3,30.88,0.23,71.33,UPI,NEWUSER15,2025-05-24,Returned,True,4.0
+0AC48871,Emma Thomas,emma.thomas71@gmail.com,+1-642-819-7459,Sydney,Australia,Electronics,Mechanical Keyboard,3,138.39,0.03,402.71,Gift Card,,2024-12-18,Delivered,False,5.0
+826739E3,Henry White,henry.white70@yahoo.com,+1-495-993-3056,Toronto,Canada,Clothing,Cotton T-Shirt,5,12.77,0.1,57.46,Debit Card,FLASH5,2025-03-08,Delivered,True,
+8F7F49D2,Noah Wang,noah.wang63@hotmail.com,+1-384-565-9346,Mexico City,Mexico,Clothing,Running Shoes,4,59.6,0.22,185.95,UPI,FLASH5,2026-02-15,Pending,False,5.0
+C996C336,Mia Davis,mia.davis24@hotmail.com,+1-790-475-1548,Tokyo,Japan,Sports,Yoga Mat,2,37.33,0.18,61.22,Credit Card,FLASH5,2024-12-05,Pending,False,4.0
+FE805747,Olivia Kumar,olivia.kumar62@gmail.com,+1-683-745-2279,Sydney,Australia,Clothing,Sneakers,3,118.49,0.12,312.81,Gift Card,,2024-05-24,Cancelled,False,
+E8C54E3A,Carlos Anderson,carlos.anderson69@gmail.com,+1-501-396-3744,Paris,France,Home & Kitchen,Blender,4,68.31,0.14,234.99,Credit Card,FLASH5,2025-02-07,Cancelled,False,4.0
+D4CF0AC5,Emma Sharma,emma.sharma61@icloud.com,+1-696-184-3077,Berlin,Germany,Clothing,Winter Coat,3,86.18,0.2,206.83,Bank Transfer,,2025-12-04,Delivered,False,4.0
+46576E7C,Noah Patel,noah.patel36@outlook.com,+1-657-478-3873,Amsterdam,Netherlands,Books,Python Programming,5,42.23,0.04,202.7,PayPal,,2025-10-31,Returned,True,5.0
+7583A599,Ava Lopez,ava.lopez68@gmail.com,+1-988-492-4898,Mumbai,India,Books,Python Programming,5,49.01,0.23,188.69,Gift Card,DEAL25,2024-08-09,Shipped,True,3.0
+4DD75716,Ethan Wang,ethan.wang45@gmail.com,+1-970-645-4828,Rome,Italy,Books,Python Programming,4,21.57,0.1,77.65,UPI,DEAL25,2025-01-07,Cancelled,False,5.0
+77BB7237,Benjamin Jones,benjamin.jones68@hotmail.com,+1-744-752-6797,London,United Kingdom,Electronics,USB-C Hub,4,76.35,0.1,274.86,UPI,,2025-01-22,Pending,False,4.0
+D59F470B,Benjamin Wilson,benjamin.wilson13@outlook.com,+1-545-793-3947,Tokyo,Japan,Sports,Jump Rope,2,16.91,0.18,27.73,PayPal,SAVE10,2025-10-28,Pending,True,
+7EC344E2,Chen Williams,chen.williams2@hotmail.com,+1-234-124-2506,Sydney,Australia,Electronics,Laptop Stand,4,28.63,0.09,104.21,Credit Card,SUMMER20,2024-12-20,Pending,True,1.0
+371EA588,Arjun Brown,arjun.brown12@icloud.com,+1-388-359-5826,Rome,Italy,Clothing,Cotton T-Shirt,5,23.12,0.2,92.48,UPI,,2024-09-10,Cancelled,True,5.0
+67DA23CB,Maria Wilson,maria.wilson99@hotmail.com,+1-540-161-5230,Mumbai,India,Books,Self Help Guide,1,14.93,0.07,13.88,PayPal,FLASH5,2024-05-07,Delivered,False,1.0
+E84F74D7,Amelia Miller,amelia.miller79@hotmail.com,+1-858-208-8234,Mexico City,Mexico,Clothing,Sneakers,2,99.35,0.14,170.88,Gift Card,SAVE10,2025-05-20,Delivered,True,
+4213EEF4,Liam Williams,liam.williams74@outlook.com,+1-599-372-3483,Amsterdam,Netherlands,Home & Kitchen,Air Fryer,2,140.68,0.16,236.34,Gift Card,,2024-03-05,Delivered,False,
+C19A9AC5,Mason Khan,mason.khan99@hotmail.com,+1-998-593-2985,Rome,Italy,Home & Kitchen,Blender,1,61.24,0.14,52.67,Bank Transfer,FLASH5,2024-03-08,Pending,False,4.0
+6B479799,Priya Taylor,priya.taylor52@gmail.com,+1-407-280-1644,Amsterdam,Netherlands,Electronics,USB-C Hub,3,56.72,0.02,166.76,UPI,SUMMER20,2025-06-18,Cancelled,True,4.0
+8067EE41,Arjun Jackson,arjun.jackson14@outlook.com,+1-225-837-4907,Sydney,Australia,Home & Kitchen,Air Fryer,4,139.66,0.18,458.08,UPI,,2024-07-26,Shipped,True,5.0
+D1C14501,Raj Taylor,raj.taylor64@icloud.com,+1-416-926-9570,London,United Kingdom,Home & Kitchen,Air Fryer,1,63.32,0.08,58.25,UPI,FLASH5,2024-04-17,Cancelled,True,3.0
+EF4802B1,Maria Williams,maria.williams5@yahoo.com,+1-376-747-1818,New York,United States,Home & Kitchen,Cutting Board,5,13.41,0.01,66.38,PayPal,,2026-02-21,Returned,True,5.0
+39A9309B,Evelyn Garcia,evelyn.garcia76@gmail.com,+1-955-794-7586,Paris,France,Electronics,Wireless Earbuds,5,89.76,0.06,421.87,PayPal,FLASH5,2024-09-28,Delivered,True,4.0
+713F6D85,Chen Lopez,chen.lopez28@gmail.com,+1-578-666-3703,Rome,Italy,Sports,Dumbbell Set,1,76.83,0.07,71.45,UPI,,2025-05-04,Delivered,True,2.0
+BB953C9D,Olivia Lopez,olivia.lopez81@icloud.com,+1-923-767-5648,London,United Kingdom,Home & Kitchen,Coffee Maker,4,41.24,0.02,161.66,UPI,,2024-03-12,Cancelled,False,2.0
+D10C0E2F,William Jones,william.jones82@outlook.com,+1-711-726-2442,Rome,Italy,Sports,Jump Rope,2,16.17,0.15,27.49,Gift Card,,2024-04-12,Returned,False,4.0
+5EEFBC91,Charlotte Smith,charlotte.smith72@yahoo.com,+1-988-741-4409,São Paulo,Brazil,Clothing,Running Shoes,1,119.05,0.15,101.19,PayPal,SAVE10,2025-09-08,Delivered,True,1.0
+830BB468,Fatima Jones,fatima.jones88@hotmail.com,+1-645-357-6477,Sydney,Australia,Home & Kitchen,Coffee Maker,1,52.77,0.01,52.24,Bank Transfer,SUMMER20,2025-03-12,Returned,False,
+7297547E,Olivia Wang,olivia.wang7@icloud.com,+1-655-706-6340,Rome,Italy,Clothing,Denim Jacket,4,79.26,0.13,275.82,UPI,SAVE10,2024-05-16,Delivered,False,3.0
+C21E5417,Mohamed Brown,mohamed.brown42@yahoo.com,+1-799-596-1890,São Paulo,Brazil,Electronics,Smartphone Case,2,24.74,0.09,45.03,UPI,,2024-10-16,Delivered,True,5.0
+C38C0FFF,Ava Jackson,ava.jackson48@yahoo.com,+1-232-808-1977,Toronto,Canada,Home & Kitchen,Cutting Board,3,17.26,0.24,39.35,PayPal,NEWUSER15,2024-09-28,Delivered,True,5.0
+42B612A4,Alexander White,alexander.white22@outlook.com,+1-621-977-9548,London,United Kingdom,Clothing,Yoga Pants,5,49.14,0.23,189.19,UPI,SAVE10,2025-10-17,Returned,True,5.0
+49E49612,Chen Harris,chen.harris36@gmail.com,+1-352-687-1083,Mexico City,Mexico,Home & Kitchen,Cutting Board,2,32.19,0.08,59.23,UPI,SAVE10,2025-10-19,Delivered,True,5.0
+C4DB0881,Ananya Zhang,ananya.zhang65@gmail.com,+1-971-112-7662,Tokyo,Japan,Home & Kitchen,Instant Pot,1,127.31,0.11,113.31,Debit Card,,2024-11-06,Delivered,False,4.0
+25322663,Sophia Sharma,sophia.sharma12@gmail.com,+1-674-890-3271,São Paulo,Brazil,Home & Kitchen,Cutting Board,4,19.7,0.21,62.25,Gift Card,,2025-10-23,Shipped,True,4.0
+7E106BED,Raj Harris,raj.harris91@gmail.com,+1-914-727-9887,Berlin,Germany,Electronics,Bluetooth Speaker,3,138.27,0.13,360.88,Bank Transfer,FLASH5,2025-01-02,Returned,True,1.0
+07B57540,Evelyn Lee,evelyn.lee43@gmail.com,+1-575-279-2097,Paris,France,Sports,Resistance Bands,1,37.19,0.1,33.47,Bank Transfer,,2025-06-24,Cancelled,True,2.0
+ECE104F5,Lucas Davis,lucas.davis70@gmail.com,+1-979-330-6250,Rome,Italy,Home & Kitchen,Cutting Board,5,33.65,0.22,131.24,PayPal,SAVE10,2026-02-22,Delivered,False,4.0
+18E18EAB,Emma Williams,emma.williams48@outlook.com,+1-835-476-2075,São Paulo,Brazil,Home & Kitchen,Blender,1,67.58,0.12,59.47,Debit Card,SUMMER20,2025-08-31,Shipped,True,1.0
+157FB1AA,Henry Lee,henry.lee23@outlook.com,+1-733-742-1371,Sydney,Australia,Electronics,Wireless Earbuds,1,63.17,0.17,52.43,PayPal,,2025-07-26,Shipped,True,5.0
+1310D4F2,Mia White,mia.white57@gmail.com,+1-792-451-6346,Mumbai,India,Books,Data Science Handbook,2,31.88,0.21,50.37,UPI,NEWUSER15,2025-08-19,Pending,False,5.0
+9FC85CE1,Isabella Kumar,isabella.kumar17@outlook.com,+1-491-566-3725,Paris,France,Clothing,Yoga Pants,3,34.06,0.24,77.66,Bank Transfer,,2024-04-22,Delivered,False,2.0
+90FCCEED,Ava Gonzalez,ava.gonzalez91@yahoo.com,+1-388-310-1568,Paris,France,Clothing,Denim Jacket,3,45.84,0.14,118.27,Gift Card,SUMMER20,2025-05-30,Delivered,False,2.0
+91DAA473,Mia Harris,mia.harris70@yahoo.com,+1-527-259-1070,São Paulo,Brazil,Sports,Resistance Bands,1,18.03,0.1,16.23,Gift Card,,2025-07-29,Pending,False,4.0
+0DD61F6F,Amelia Lee,amelia.lee38@icloud.com,+1-342-794-2914,New York,United States,Clothing,Winter Coat,4,167.42,0.08,616.11,PayPal,DEAL25,2024-06-28,Delivered,False,3.0
+406BAC1E,Alexander Thomas,alexander.thomas12@outlook.com,+1-285-651-8298,New York,United States,Electronics,Laptop Stand,5,47.44,0.13,206.36,Gift Card,SAVE10,2024-12-14,Cancelled,True,5.0
+20F7164C,Henry Miller,henry.miller63@outlook.com,+1-933-974-8006,Toronto,Canada,Sports,Water Bottle,1,25.22,0.23,19.42,PayPal,FLASH5,2025-03-09,Shipped,False,
+0CD7EA8B,Isabella Thomas,isabella.thomas45@outlook.com,+1-367-925-7944,Berlin,Germany,Home & Kitchen,Instant Pot,4,90.5,0.19,293.22,Gift Card,DEAL25,2025-05-04,Shipped,True,1.0
+66F37062,Noah Miller,noah.miller39@hotmail.com,+1-854-379-7791,Mumbai,India,Sports,Resistance Bands,5,16.64,0.19,67.39,Debit Card,,2024-06-03,Pending,False,2.0
+4B6062C8,William Garcia,william.garcia49@outlook.com,+1-957-574-4678,Tokyo,Japan,Sports,Jump Rope,3,10.62,0.21,25.17,Credit Card,DEAL25,2025-01-10,Returned,True,2.0
+1DF79730,Benjamin Taylor,benjamin.taylor82@hotmail.com,+1-322-883-5541,New York,United States,Electronics,Mechanical Keyboard,3,153.22,0.1,413.69,UPI,SAVE10,2025-07-21,Delivered,False,5.0
+E00D8F29,Ethan White,ethan.white34@hotmail.com,+1-259-249-6237,Mexico City,Mexico,Electronics,USB-C Hub,5,55.62,0.0,278.1,UPI,,2024-11-25,Cancelled,True,4.0
+1BCF2C76,Ava Johnson,ava.johnson35@outlook.com,+1-398-884-4002,Tokyo,Japan,Home & Kitchen,Cutting Board,3,33.06,0.01,98.19,Credit Card,,2024-12-28,Pending,True,5.0
+661A987F,Lucas Nguyen,lucas.nguyen41@outlook.com,+1-730-388-7111,Toronto,Canada,Books,Self Help Guide,5,14.14,0.09,64.34,UPI,,2024-07-30,Shipped,False,2.0
+019F4E25,Olivia Miller,olivia.miller20@icloud.com,+1-671-178-2909,Mumbai,India,Clothing,Denim Jacket,5,79.75,0.15,338.94,Debit Card,,2025-08-25,Delivered,False,4.0
+6D064D23,Isabella Khan,isabella.khan47@yahoo.com,+1-321-327-3108,Rome,Italy,Home & Kitchen,Instant Pot,3,142.76,0.04,411.15,Gift Card,,2025-01-10,Delivered,True,4.0
+43AE52FE,Noah Miller,noah.miller17@gmail.com,+1-401-210-1537,New York,United States,Home & Kitchen,Cutting Board,1,29.78,0.02,29.18,Gift Card,FLASH5,2025-07-13,Pending,True,5.0
+4414118F,Olivia Wilson,olivia.wilson6@gmail.com,+1-886-459-1479,Toronto,Canada,Books,Python Programming,1,42.63,0.23,32.83,Credit Card,SAVE10,2024-10-01,Delivered,False,4.0
+C38B637B,Mia Garcia,mia.garcia65@icloud.com,+1-396-388-3814,Rome,Italy,Clothing,Winter Coat,1,148.42,0.2,118.74,Bank Transfer,SAVE10,2024-03-19,Delivered,True,3.0
+5C915498,Maria Thompson,maria.thompson91@hotmail.com,+1-419-626-4728,Mumbai,India,Books,Cooking Basics,1,18.69,0.05,17.76,UPI,FLASH5,2025-03-03,Delivered,False,1.0
+12CE5E10,Alexander Brown,alexander.brown67@yahoo.com,+1-318-494-5646,São Paulo,Brazil,Home & Kitchen,Knife Set,5,72.27,0.18,296.31,UPI,NEWUSER15,2024-05-28,Pending,False,5.0
+751FEF94,Sophia Robinson,sophia.robinson53@outlook.com,+1-890-603-2723,New York,United States,Home & Kitchen,Coffee Maker,4,108.53,0.23,334.27,UPI,,2025-03-16,Shipped,True,1.0
+A32BA0D2,Noah Jackson,noah.jackson52@icloud.com,+1-809-964-7623,Sydney,Australia,Electronics,Mechanical Keyboard,2,189.53,0.02,371.48,Credit Card,NEWUSER15,2024-09-24,Delivered,False,5.0
+52760AE7,Benjamin Zhang,benjamin.zhang92@icloud.com,+1-723-385-3414,São Paulo,Brazil,Sports,Resistance Bands,4,33.9,0.09,123.4,UPI,FLASH5,2026-01-16,Delivered,True,4.0
+161811C9,Amelia Martin,amelia.martin30@yahoo.com,+1-819-795-6356,Mumbai,India,Electronics,Wireless Earbuds,1,109.01,0.12,95.93,Debit Card,,2024-04-01,Delivered,True,1.0
+4BD84861,Priya Zhang,priya.zhang67@hotmail.com,+1-759-118-1517,Tokyo,Japan,Home & Kitchen,Coffee Maker,4,63.48,0.12,223.45,UPI,NEWUSER15,2024-11-27,Delivered,False,5.0
+A5C13687,Lucas Nguyen,lucas.nguyen49@hotmail.com,+1-641-237-6119,São Paulo,Brazil,Home & Kitchen,Air Fryer,5,62.95,0.16,264.39,Gift Card,,2025-01-09,Shipped,False,1.0
+F5DCA5F9,Ethan Ali,ethan.ali63@icloud.com,+1-469-606-7189,Mumbai,India,Sports,Water Bottle,5,24.39,0.21,96.34,Bank Transfer,,2025-08-05,Cancelled,False,4.0
+DC6C4C3A,Lucas Johnson,lucas.johnson4@icloud.com,+1-549-489-2594,Amsterdam,Netherlands,Electronics,Smartphone Case,3,26.73,0.2,64.15,UPI,,2025-10-23,Delivered,False,5.0
+A56D166E,Mia Johnson,mia.johnson85@yahoo.com,+1-317-445-3781,Berlin,Germany,Clothing,Denim Jacket,5,72.39,0.02,354.71,Credit Card,,2026-02-07,Pending,False,
+897A79DD,Alexander Ali,alexander.ali55@icloud.com,+1-599-430-2601,Mexico City,Mexico,Sports,Jump Rope,4,13.99,0.15,47.57,UPI,FLASH5,2025-01-23,Delivered,True,4.0
+063AC71E,Amelia Thompson,amelia.thompson98@outlook.com,+1-419-394-5344,Tokyo,Japan,Clothing,Winter Coat,4,115.93,0.05,440.53,Credit Card,,2025-12-15,Delivered,False,3.0
+BF80709F,Evelyn Wang,evelyn.wang12@icloud.com,+1-414-455-2256,Mumbai,India,Electronics,Laptop Stand,1,36.78,0.14,31.63,Gift Card,DEAL25,2025-08-30,Returned,False,5.0
+4CB3BBD2,Fatima Taylor,fatima.taylor56@icloud.com,+1-842-820-9457,New York,United States,Books,Data Science Handbook,3,42.42,0.16,106.9,Debit Card,,2025-06-12,Pending,False,3.0
+B93082C3,Priya Gonzalez,priya.gonzalez96@hotmail.com,+1-405-473-8577,Tokyo,Japan,Books,Cooking Basics,4,31.17,0.23,96.0,Debit Card,,2025-12-06,Delivered,True,4.0
+79F93467,Mei White,mei.white53@outlook.com,+1-903-715-4868,Berlin,Germany,Electronics,Mechanical Keyboard,4,88.49,0.07,329.18,UPI,,2024-12-23,Delivered,True,2.0
+1F0DFA47,William Smith,william.smith32@outlook.com,+1-479-239-1477,Toronto,Canada,Home & Kitchen,Blender,4,71.38,0.11,254.11,PayPal,SAVE10,2024-04-11,Returned,False,5.0
+FF553A1E,Ava Sharma,ava.sharma6@hotmail.com,+1-572-787-2479,Mumbai,India,Electronics,Wireless Earbuds,1,118.76,0.08,109.26,UPI,,2025-01-04,Returned,True,3.0
+831AD836,Olivia Kumar,olivia.kumar95@icloud.com,+1-292-343-3003,São Paulo,Brazil,Electronics,Laptop Stand,5,48.24,0.24,183.31,PayPal,SUMMER20,2025-08-24,Delivered,False,3.0
+7CF24DBE,Maria White,maria.white28@yahoo.com,+1-746-483-2850,São Paulo,Brazil,Electronics,Smartphone Case,3,14.27,0.11,38.1,PayPal,,2024-11-20,Pending,False,5.0
+FEA07347,Priya Davis,priya.davis36@yahoo.com,+1-878-918-1895,Rome,Italy,Books,Sci-Fi Novel,3,17.15,0.01,50.94,Gift Card,,2025-11-15,Returned,True,4.0
+35CAA5D8,Harper Jackson,harper.jackson40@outlook.com,+1-292-942-4857,Berlin,Germany,Electronics,Laptop Stand,4,55.33,0.1,199.19,PayPal,SUMMER20,2025-04-11,Delivered,True,5.0
+D1E26992,Raj Anderson,raj.anderson99@hotmail.com,+1-632-997-2644,Rome,Italy,Electronics,USB-C Hub,4,73.31,0.12,258.05,Debit Card,NEWUSER15,2025-05-01,Cancelled,False,5.0
+0220E4B5,Liam Thomas,liam.thomas54@icloud.com,+1-654-910-3229,Amsterdam,Netherlands,Sports,Resistance Bands,1,26.32,0.19,21.32,Credit Card,,2025-12-21,Shipped,True,4.0
+0010D691,Lucas Kumar,lucas.kumar11@gmail.com,+1-662-589-3187,Paris,France,Clothing,Denim Jacket,2,65.81,0.21,103.98,PayPal,FLASH5,2026-02-05,Delivered,False,4.0
+71299F96,William Williams,william.williams54@outlook.com,+1-673-303-5289,London,United Kingdom,Clothing,Cotton T-Shirt,5,27.52,0.06,129.34,Gift Card,SAVE10,2024-03-28,Returned,True,
+C6BA536E,Henry Patel,henry.patel55@icloud.com,+1-935-638-8129,New York,United States,Books,Data Science Handbook,3,32.66,0.04,94.06,UPI,,2025-10-06,Returned,False,1.0
+72BCC7E1,Sophia Khan,sophia.khan27@yahoo.com,+1-944-793-4102,Berlin,Germany,Books,Self Help Guide,4,21.95,0.03,85.17,UPI,SAVE10,2024-10-02,Delivered,False,2.0
+0D3D4DAE,James Taylor,james.taylor34@yahoo.com,+1-210-580-3182,London,United Kingdom,Sports,Jump Rope,3,23.6,0.15,60.18,PayPal,DEAL25,2025-12-27,Cancelled,False,3.0
+C345B540,Arjun Jackson,arjun.jackson91@hotmail.com,+1-562-720-1745,São Paulo,Brazil,Sports,Resistance Bands,5,16.82,0.01,83.26,Credit Card,SAVE10,2025-02-08,Delivered,False,4.0
+8095A8CF,Henry Ali,henry.ali48@yahoo.com,+1-335-191-6198,São Paulo,Brazil,Sports,Yoga Mat,3,37.4,0.04,107.71,Gift Card,NEWUSER15,2025-07-22,Pending,False,2.0
+5C243EA7,Benjamin Brown,benjamin.brown41@gmail.com,+1-827-949-5321,Berlin,Germany,Clothing,Cotton T-Shirt,3,27.42,0.19,66.63,Bank Transfer,SUMMER20,2025-05-19,Delivered,False,2.0
+4A6ECC4E,Lucas Wang,lucas.wang63@yahoo.com,+1-466-267-8653,São Paulo,Brazil,Sports,Jump Rope,2,10.79,0.01,21.36,UPI,,2024-09-08,Delivered,False,
+F0607C40,Alexander Thomas,alexander.thomas91@icloud.com,+1-384-954-3757,Berlin,Germany,Home & Kitchen,Blender,2,67.03,0.03,130.04,Gift Card,SAVE10,2024-06-08,Pending,False,3.0
+6BDDBDCB,Ethan Smith,ethan.smith68@icloud.com,+1-226-391-2998,Paris,France,Clothing,Cotton T-Shirt,2,28.4,0.19,46.01,UPI,,2026-01-27,Delivered,True,4.0
+ACB5FD4C,Noah Smith,noah.smith11@hotmail.com,+1-871-737-8423,New York,United States,Home & Kitchen,Blender,3,75.83,0.15,193.37,PayPal,NEWUSER15,2024-03-10,Cancelled,True,3.0
+B4E9B6A8,Mei Johnson,mei.johnson83@outlook.com,+1-461-282-4933,Mumbai,India,Books,Python Programming,5,42.3,0.24,160.74,UPI,,2025-03-30,Delivered,True,3.0
+89B0682C,Ava Jackson,ava.jackson52@outlook.com,+1-881-198-7020,Paris,France,Clothing,Running Shoes,4,70.89,0.18,232.52,Bank Transfer,,2025-01-16,Delivered,False,5.0
+A61CBB32,Carlos Jackson,carlos.jackson61@outlook.com,+1-845-536-2522,Mumbai,India,Sports,Water Bottle,4,23.45,0.2,75.04,Credit Card,,2025-11-23,Pending,False,5.0
+0087BE0E,Priya Davis,priya.davis83@yahoo.com,+1-689-407-3434,London,United Kingdom,Home & Kitchen,Instant Pot,5,155.54,0.02,762.15,Debit Card,FLASH5,2025-06-27,Cancelled,False,3.0
+CDAD7079,Mason White,mason.white38@icloud.com,+1-296-575-5151,Mumbai,India,Electronics,Laptop Stand,1,27.67,0.13,24.07,PayPal,FLASH5,2025-08-09,Delivered,True,5.0
+AC4D11D7,James Brown,james.brown95@hotmail.com,+1-801-841-8454,Paris,France,Clothing,Denim Jacket,1,82.14,0.02,80.5,Gift Card,SUMMER20,2026-02-24,Shipped,False,4.0
+6846D36F,Maria Nguyen,maria.nguyen24@yahoo.com,+1-747-118-1095,Mumbai,India,Clothing,Running Shoes,5,102.28,0.06,480.72,UPI,,2026-01-23,Delivered,True,2.0
+ECEBAB9D,Raj Martin,raj.martin59@hotmail.com,+1-289-228-3213,Berlin,Germany,Sports,Jump Rope,5,14.53,0.09,66.11,Credit Card,FLASH5,2026-01-23,Delivered,True,
+A5BAAA89,Arjun Miller,arjun.miller4@yahoo.com,+1-508-888-8592,London,United Kingdom,Home & Kitchen,Cutting Board,2,16.18,0.11,28.8,Debit Card,SAVE10,2025-12-06,Shipped,False,
+27341016,Olivia Garcia,olivia.garcia20@hotmail.com,+1-601-152-6469,Mexico City,Mexico,Home & Kitchen,Blender,4,36.27,0.15,123.32,Credit Card,SUMMER20,2024-09-27,Delivered,False,5.0
+43CD85A0,Mei Martin,mei.martin95@icloud.com,+1-931-162-9655,Sydney,Australia,Sports,Water Bottle,1,34.97,0.12,30.77,Credit Card,DEAL25,2025-07-15,Shipped,False,5.0
+7B039035,Liam Wilson,liam.wilson83@hotmail.com,+1-494-843-4149,Toronto,Canada,Home & Kitchen,Air Fryer,3,104.52,0.11,279.07,UPI,,2025-05-25,Delivered,False,3.0
+C6D2365C,Mason Davis,mason.davis76@outlook.com,+1-868-852-6902,Amsterdam,Netherlands,Sports,Jump Rope,3,11.96,0.18,29.42,UPI,FLASH5,2025-04-08,Returned,True,3.0
+067A85AD,Isabella Khan,isabella.khan96@gmail.com,+1-510-340-4431,São Paulo,Brazil,Home & Kitchen,Coffee Maker,2,53.85,0.15,91.55,Bank Transfer,FLASH5,2024-06-16,Delivered,True,4.0
+2953F87D,Carlos Wilson,carlos.wilson46@yahoo.com,+1-775-329-8968,London,United Kingdom,Clothing,Winter Coat,1,83.83,0.08,77.12,PayPal,SAVE10,2024-06-29,Delivered,False,
+B4E8189E,Mohamed Lee,mohamed.lee72@outlook.com,+1-668-961-2817,São Paulo,Brazil,Clothing,Sneakers,5,129.89,0.17,539.04,Credit Card,,2026-02-26,Returned,True,5.0
+2121AA2D,Emma Thompson,emma.thompson14@yahoo.com,+1-710-850-2626,Tokyo,Japan,Electronics,Webcam HD,3,60.26,0.04,173.55,Debit Card,DEAL25,2024-12-29,Cancelled,False,4.0
+C4B86684,Chen Jones,chen.jones16@yahoo.com,+1-717-275-2396,Berlin,Germany,Home & Kitchen,Blender,1,84.99,0.06,79.89,PayPal,NEWUSER15,2025-07-03,Delivered,False,4.0
+49B501AB,Raj Ali,raj.ali32@yahoo.com,+1-728-913-6927,São Paulo,Brazil,Sports,Jump Rope,2,21.8,0.2,34.88,Credit Card,FLASH5,2025-05-02,Shipped,True,
+05CBF8AA,Arjun Lopez,arjun.lopez67@gmail.com,+1-856-254-1947,Amsterdam,Netherlands,Electronics,USB-C Hub,2,45.73,0.11,81.4,Gift Card,,2025-04-11,Cancelled,False,5.0
+54CF165E,Henry Lee,henry.lee88@icloud.com,+1-613-556-4360,Rome,Italy,Books,Self Help Guide,1,23.9,0.21,18.88,Bank Transfer,,2025-08-27,Pending,False,4.0
+E8EA8E9C,Carlos Lopez,carlos.lopez84@hotmail.com,+1-295-623-6115,Sydney,Australia,Clothing,Yoga Pants,5,28.36,0.08,130.46,Bank Transfer,SUMMER20,2024-07-12,Delivered,True,
+B0B947D4,James Lee,james.lee70@icloud.com,+1-261-961-7110,Rome,Italy,Books,Data Science Handbook,3,54.96,0.18,135.2,PayPal,,2025-08-04,Cancelled,False,1.0
+011BFEE0,Emma Zhang,emma.zhang84@gmail.com,+1-506-391-3293,Paris,France,Home & Kitchen,Knife Set,1,64.34,0.11,57.26,Gift Card,SAVE10,2024-11-01,Shipped,True,1.0
+D93013E0,Lucas Thompson,lucas.thompson75@yahoo.com,+1-635-233-8802,New York,United States,Books,Sci-Fi Novel,4,10.97,0.21,34.67,Debit Card,,2024-05-27,Shipped,True,4.0
+A0C380EE,Priya Thompson,priya.thompson52@icloud.com,+1-905-601-7830,São Paulo,Brazil,Sports,Water Bottle,3,30.57,0.15,77.95,Debit Card,FLASH5,2025-12-16,Delivered,True,5.0
+FC6472C9,Arjun Harris,arjun.harris17@icloud.com,+1-816-972-7694,London,United Kingdom,Sports,Yoga Mat,4,40.82,0.12,143.69,Credit Card,NEWUSER15,2024-08-12,Delivered,False,4.0
+22AD98EE,Emma Thompson,emma.thompson20@gmail.com,+1-803-531-1797,Toronto,Canada,Books,Self Help Guide,3,24.88,0.07,69.42,PayPal,,2024-04-02,Delivered,True,2.0
+E57112F0,Chen Wang,chen.wang63@gmail.com,+1-663-445-7181,Mexico City,Mexico,Electronics,Laptop Stand,1,37.19,0.1,33.47,UPI,SUMMER20,2025-10-12,Returned,True,2.0
+A6E48981,Mason Sharma,mason.sharma59@hotmail.com,+1-438-504-6554,Mumbai,India,Home & Kitchen,Coffee Maker,3,109.3,0.02,321.34,Bank Transfer,FLASH5,2025-12-04,Delivered,False,4.0
+9713D221,Raj Williams,raj.williams22@gmail.com,+1-754-690-1866,Mexico City,Mexico,Sports,Resistance Bands,1,29.02,0.16,24.38,Bank Transfer,SAVE10,2024-05-31,Pending,True,5.0
+FF65AC6E,Mason Lee,mason.lee3@gmail.com,+1-746-721-6249,London,United Kingdom,Sports,Dumbbell Set,3,126.98,0.2,304.75,UPI,DEAL25,2024-11-11,Pending,True,5.0
+111E8720,Mei Smith,mei.smith44@hotmail.com,+1-301-654-3755,London,United Kingdom,Clothing,Cotton T-Shirt,5,10.47,0.08,48.16,PayPal,,2024-11-23,Delivered,True,4.0
+0D617F55,Mohamed Williams,mohamed.williams20@outlook.com,+1-259-405-7388,Rome,Italy,Home & Kitchen,Cutting Board,5,16.71,0.24,63.5,Credit Card,,2024-09-06,Delivered,True,5.0
+C3AFCB07,Carlos Anderson,carlos.anderson34@hotmail.com,+1-475-162-6215,London,United Kingdom,Electronics,Wireless Earbuds,5,66.19,0.15,281.31,UPI,FLASH5,2025-07-22,Pending,False,1.0
+C9593981,Amelia Smith,amelia.smith53@yahoo.com,+1-781-516-8306,Berlin,Germany,Electronics,USB-C Hub,5,57.69,0.17,239.41,Credit Card,,2024-11-12,Returned,True,2.0
+477619E4,Mia Robinson,mia.robinson22@yahoo.com,+1-496-768-3742,Mexico City,Mexico,Sports,Jump Rope,5,24.41,0.11,108.62,Credit Card,DEAL25,2024-03-06,Delivered,False,4.0
+81627C65,Evelyn Wilson,evelyn.wilson88@hotmail.com,+1-291-504-3014,Berlin,Germany,Books,Data Science Handbook,5,47.54,0.07,221.06,Debit Card,,2024-08-17,Cancelled,False,5.0
+30ACA9BE,William Patel,william.patel65@outlook.com,+1-415-570-6381,Paris,France,Books,Self Help Guide,4,24.75,0.07,92.07,Credit Card,NEWUSER15,2026-01-12,Cancelled,True,
+8F62E336,Evelyn Martin,evelyn.martin1@gmail.com,+1-866-179-9825,Amsterdam,Netherlands,Clothing,Cotton T-Shirt,4,21.11,0.19,68.4,Credit Card,,2025-09-07,Returned,False,1.0
+DBD1BFFB,Mia Gonzalez,mia.gonzalez49@icloud.com,+1-209-326-1324,São Paulo,Brazil,Books,Sci-Fi Novel,1,11.76,0.03,11.41,PayPal,SAVE10,2025-03-19,Cancelled,False,3.0
+9BB758CF,Liam Gonzalez,liam.gonzalez79@outlook.com,+1-400-940-7489,New York,United States,Clothing,Denim Jacket,3,89.0,0.01,264.33,Credit Card,SAVE10,2025-07-22,Returned,False,5.0
