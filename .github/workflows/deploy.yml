@@ -9,6 +9,7 @@ on:
 env:
   S3_SCRIPTS_BUCKET: pyspark-test-bucket-data
   S3_SCRIPTS_PREFIX: scripts
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
 jobs:
   test:
