@@ -7,11 +7,17 @@ class S3toS3Service(ETLAbstract):
         self.transactions = None
 
     def read(self):
-        self.transactions = self.spark.read.csv("s3a://pyspark-test-bucket-data/source/ecommerce_orders.csv", header=True, inferSchema=True)
+        self.transactions = self.spark.read.csv(
+            "s3a://pyspark-test-bucket-data/source/ecommerce_orders.csv",
+            header=True,
+            inferSchema=True
+        )
 
     def transform(self):
-        self.transactions = self.transactions.drop("coupon_code","payment_method")
+        self.transactions = self.transactions.drop("coupon_code", "payment_method")
 
     def load(self):
-        self.transactions.write.mode("overwrite").option("header", "true").parquet("s3a://pyspark-test-bucket-data/destination")
+        self.transactions.write.mode("overwrite").option("header", "true").parquet(
+            "s3a://pyspark-test-bucket-data/destination"
+        )
 
